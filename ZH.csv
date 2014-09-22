@@ -471,100 +471,100 @@
 "text:language_name","ENGLISH","简体中文"
 "text:language_author","Author","Eric Shen"
 "text:wrap_hyphen","-","-"
-"text:created_by","created by Lucas Pope","created by Lucas Pope"
+"text:created_by","created by Lucas Pope","Lucas Pope设计"
 "text:papers_please","Papers, please.","Papers, please."
-"text:protocol_violated","Protocol Violated.","Protocol Violated."
-"text:unauth_confiscation","Unauthorized passport confiscation","Unauthorized passport confiscation"
-"text:missing_reason","Denial reason not given","Denial reason not given"
-"text:citation_warning","WARNING ISSUED - NO PENALTY","WARNING ISSUED - NO PENALTY"
-"text:citation_lastwarning","LAST WARNING - NO PENALTY","LAST WARNING - NO PENALTY"
-"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","PENALTY ASSESSED - $0 CREDITS"
-"text:border_next","NEXT!","NEXT!"
-"text:border_bomber","FOR KOLECHIA!","FOR KOLECHIA!"
-"text:border_comeback","COME BACK AT 6AM TOMORROW","COME BACK AT 6AM TOMORROW"
-"text:border_announce0","ENTRY IS NOT GUARANTEED","ENTRY IS NOT GUARANTEED"
-"text:border_announce1","HAVE YOUR DOCUMENTS READY","HAVE YOUR DOCUMENTS READY"
-"text:border_announce2","ARSTOTZKA WELCOMES YOU","ARSTOTZKA WELCOMES YOU"
-"text:border_guardout","OUT!","OUT!"
-"text:border_elisa","ELISA!","ELISA!"
-"text:family_son_budget","SON","SON"
-"text:family_wife_budget","WIFE","WIFE"
-"text:family_niece_budget","NIECE","NIECE"
-"text:family_uncle_budget","UNCLE","UNCLE"
-"text:family_mil_budget","MIL","MIL"
-"text:family_son_status","Son","Son"
-"text:family_wife_status","Wife","Wife"
-"text:family_niece_status","Niece","Niece"
-"text:family_uncle_status","Uncle","Uncle"
-"text:family_mil_status","Mother-in-law","Mother-in-law"
-"text:family_son_message","son","son"
-"text:family_wife_message","wife","wife"
-"text:family_niece_message","niece","niece"
-"text:family_uncle_message","uncle","uncle"
-"text:family_mil_message","mother-in-law","mother-in-law"
-"text:night_endof","END OF","END OF"
-"text:night_day","DAY $0","DAY $0"
-"text:family_verysick_1","Your $0 will die without medicine.","Your $0 will die without medicine."
-"text:family_verysick_many","Very sick family members will die without medicine.","Very sick family members will die without medicine."
-"text:family_sick_1","Your $0 is sick and needs medicine.","Your $0 is sick and needs medicine."
-"text:family_sick_many","Your family needs medicine.","Your family needs medicine."
-"text:family_died_1","Your $0 has died.","Your $0 has died."
-"text:family_died_2","Your $0 and $1 have died.","Your $0 and $1 have died."
-"text:family_died_3","Your $0, $1, and $2 have died.","Your $0, $1, and $2 have died."
-"text:family_died_4","Your $0, $1, $2, and $3 have died.","Your $0, $1, $2, and $3 have died."
+"text:protocol_violated","Protocol Violated.","违反规章"
+"text:unauth_confiscation","Unauthorized passport confiscation","未授权的护照没收行为"
+"text:missing_reason","Denial reason not given","未指明理由的拒签"
+"text:citation_warning","WARNING ISSUED - NO PENALTY","警告 - 无罚款"
+"text:citation_lastwarning","LAST WARNING - NO PENALTY","最后一次警告 - 无罚款"
+"text:citation_penalty","PENALTY ASSESSED - $0 CREDITS","处罚评估 - $0 分"
+"text:border_next","NEXT!","下一个！"
+"text:border_bomber","FOR KOLECHIA!","为了科勒齐亚！"
+"text:border_comeback","COME BACK AT 6AM TOMORROW","明天早上6点再过来"
+"text:border_announce0","ENTRY IS NOT GUARANTEED","不保证入境"
+"text:border_announce1","HAVE YOUR DOCUMENTS READY","准备好你的文件"
+"text:border_announce2","ARSTOTZKA WELCOMES YOU","阿斯托茨卡欢迎你"
+"text:border_guardout","OUT!","出去！"
+"text:border_elisa","ELISA!","艾丽莎！"
+"text:family_son_budget","SON","儿子"
+"text:family_wife_budget","WIFE","妻子"
+"text:family_niece_budget","NIECE","侄女"
+"text:family_uncle_budget","UNCLE","叔叔"
+"text:family_mil_budget","MIL","岳母"
+"text:family_son_status","Son","儿子"
+"text:family_wife_status","Wife","妻子"
+"text:family_niece_status","Niece","侄女"
+"text:family_uncle_status","Uncle","叔叔"
+"text:family_mil_status","Mother-in-law","岳母"
+"text:family_son_message","son","儿子"
+"text:family_wife_message","wife","妻子"
+"text:family_niece_message","niece","侄女"
+"text:family_uncle_message","uncle","叔叔"
+"text:family_mil_message","mother-in-law","岳母"
+"text:night_endof","END OF","结束"
+"text:night_day","DAY $0","天 $0"
+"text:family_verysick_1","Your $0 will die without medicine.","没有足够的药品将导致你的$0死亡。"
+"text:family_verysick_many","Very sick family members will die without medicine.","严重患病的家庭成员会因为没有药而死亡。"
+"text:family_sick_1","Your $0 is sick and needs medicine.","你的$0因为患病需要药品。"
+"text:family_sick_many","Your family needs medicine.","你的家庭需要药品。"
+"text:family_died_1","Your $0 has died.","你的$0死了。"
+"text:family_died_2","Your $0 and $1 have died.","你的$0和$1死了。"
+"text:family_died_3","Your $0, $1, and $2 have died.","你的$0、$1和$2死了。"
+"text:family_died_4","Your $0, $1, $2, and $3 have died.","你的$0、$1、$2和$3死了。"
 "text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","Your $0, $1, $2, $3, and $4 have died."
-"text:family_escape_with_0","You leave behind everything.","You leave behind everything."
-"text:family_escape_with_1","You gather your $0 to leave for Obristan.","You gather your $0 to leave for Obristan."
-"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","You gather your $0 and $1 to leave for Obristan."
-"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","You gather your $0, $1, and $2 to leave for Obristan."
-"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","You gather your $0, $1, $2, and $3 to leave for Obristan."
-"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","You gather your $0, $1, $2, $3, and $4 to leave for Obristan."
-"text:family_escape_without_1","Your $0 prepares to return to Nirsk.","Your $0 prepares to return to Nirsk."
-"text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","Your $0 and $1 prepare to return to Nirsk."
-"text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","Your $0, $1, and $2 prepare to return to Nirsk."
-"text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","Your $0, $1, $2, and $3 prepare to return to Nirsk."
-"text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk."
-"text:family_flee_final_0","Obristan Above All","Obristan Above All"
-"text:family_flee_final_1","The safety of your $0 is unknown.","The safety of your $0 is unknown."
-"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","The safety of your $0 and $1 is unknown."
-"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","The safety of your $0, $1, and $2 is unknown."
-"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","The safety of your $0, $1, $2, and $3 is unknown."
-"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","The safety of your $0, $1, $2, $3, and $4 is unknown."
-"text:budget_savings","SAVINGS","SAVINGS"
-"text:budget_salary","SALARY ($0)","SALARY ($0)"
-"text:budget_penalties","PENALTIES ($0)","PENALTIES ($0)"
-"text:budget_bribes","BRIBES","BRIBES"
-"text:budget_rent","RENT","RENT"
-"text:budget_food","FOOD","FOOD"
-"text:budget_heat","HEAT","HEAT"
-"text:budget_medicine","MEDICINE ($0)","MEDICINE ($0)"
-"text:budget_sleep","SLEEP","SLEEP"
-"text:budget_escape","ESCAPE","ESCAPE"
-"text:menu_back","BACK","BACK"
-"text:confirm_ok","OKAY","OKAY"
-"text:confirm_cancel","CANCEL","CANCEL"
-"text:menu_mainmenu","MAIN MENU","MAIN MENU"
-"text:menu_resume","RESUME","RESUME"
-"text:menu_quit","QUIT","QUIT"
-"text:menu_done","DONE","DONE"
-"text:menu_story","STORY","STORY"
-"text:menu_endless","ENDLESS","ENDLESS"
-"text:menu_play","PLAY","PLAY"
-"text:menu_fullscreen","Fullscreen","Fullscreen"
-"text:menu_nudity","Nudity","Nudity"
-"text:menu_easy","Easy Mode","Easy Mode"
-"text:menu_music","Music","Music"
-"text:menu_sound","Sound","Sound"
-"text:menu_dateformat","Date Format","Date Format"
-"text:menu_language","Language","Language"
-"text:menu_easytip","+ 20 credits per day","+ 20 credits per day"
-"text:menu_stats","STATS","STATS"
-"text:menu_next","NEXT","NEXT"
-"text:menu_walktowork","WALK TO WORK","WALK TO WORK"
-"text:menu_paused","PAUSED","PAUSED"
-"text:menu_settings","SETTINGS","SETTINGS"
-"text:menu_credits","CREDITS","CREDITS"
-"text:menu_checkforupdates","CHECK FOR UPDATES","CHECK FOR UPDATES"
+"text:family_escape_with_0","You leave behind everything.","你抛弃了一切。"
+"text:family_escape_with_1","You gather your $0 to leave for Obristan.","你带上你的$0逃往奥布里斯坦。"
+"text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","你带上你的$0和$1逃往奥布里斯坦。"
+"text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","你带上你的$0、$1和$2逃往奥布里斯坦。"
+"text:family_escape_with_4","You gather your $0, $1, $2, and $3 to leave for Obristan.","你带上你的$0、$1、$2和$3逃往奥布里斯坦。"
+"text:family_escape_with_5","You gather your $0, $1, $2, $3, and $4 to leave for Obristan.","你带上你的$0、$1、$2、$3和$4逃往奥布里斯坦。"
+"text:family_escape_without_1","Your $0 prepares to return to Nirsk.","你的$0准备回到尼尔斯克去。"
+"text:family_escape_without_2","Your $0 and $1 prepare to return to Nirsk.","你的$0和$1准备回到尼尔斯克去。"
+"text:family_escape_without_3","Your $0, $1, and $2 prepare to return to Nirsk.","你的$0、$1和$2准备回到尼尔斯克去。"
+"text:family_escape_without_4","Your $0, $1, $2, and $3 prepare to return to Nirsk.","你的$0、$1、$2和$3准备回到尼尔斯克去。"
+"text:family_escape_without_5","Your $0, $1, $2, $3, and $4 prepare to return to Nirsk.","你的$0、$1、$2、$3和$4准备回到尼尔斯克去。"
+"text:family_flee_final_0","Obristan Above All","奥布里斯坦高于一切"
+"text:family_flee_final_1","The safety of your $0 is unknown.","你仍然不清楚你的$0是否安全。"
+"text:family_flee_final_2","The safety of your $0 and $1 is unknown.","你仍然不清楚你的$0和$1是否安全。"
+"text:family_flee_final_3","The safety of your $0, $1, and $2 is unknown.","你仍然不清楚你的$0、$1和$2是否安全。"
+"text:family_flee_final_4","The safety of your $0, $1, $2, and $3 is unknown.","你仍然不清楚你的$0、$1、$2和$3是否安全。"
+"text:family_flee_final_5","The safety of your $0, $1, $2, $3, and $4 is unknown.","你仍然不清楚你的$0、$1、$2、$3和$4是否安全。"
+"text:budget_savings","SAVINGS","存款"
+"text:budget_salary","SALARY ($0)","工资（$0）"
+"text:budget_penalties","PENALTIES ($0)","罚款（$0）"
+"text:budget_bribes","BRIBES","贿赂"
+"text:budget_rent","RENT","租金"
+"text:budget_food","FOOD","食物"
+"text:budget_heat","HEAT","暖气"
+"text:budget_medicine","MEDICINE ($0)","药物（$0）"
+"text:budget_sleep","SLEEP","睡觉"
+"text:budget_escape","ESCAPE","逃跑"
+"text:menu_back","BACK","后退"
+"text:confirm_ok","OKAY","好的"
+"text:confirm_cancel","CANCEL","取消"
+"text:menu_mainmenu","MAIN MENU","主菜单"
+"text:menu_resume","RESUME","回到游戏"
+"text:menu_quit","QUIT","退出"
+"text:menu_done","DONE","完成"
+"text:menu_story","STORY","故事模式"
+"text:menu_endless","ENDLESS","无尽模式"
+"text:menu_play","PLAY","开始"
+"text:menu_fullscreen","Fullscreen","全屏"
+"text:menu_nudity","Nudity","裸体"
+"text:menu_easy","Easy Mode","简单模式"
+"text:menu_music","Music","音乐"
+"text:menu_sound","Sound","声效"
+"text:menu_dateformat","Date Format","日期格式"
+"text:menu_language","Language","语言"
+"text:menu_easytip","+ 20 credits per day","+ 20 分每天"
+"text:menu_stats","STATS","状态"
+"text:menu_next","NEXT","下一个"
+"text:menu_walktowork","WALK TO WORK","走去上班"
+"text:menu_paused","PAUSED","暂停"
+"text:menu_settings","SETTINGS","设置"
+"text:menu_credits","CREDITS","制作人员"
+"text:menu_checkforupdates","CHECK FOR UPDATES","检查更新"
 "text:stats_text","Played for $time
 $processed travelers processed
 $approved approved
@@ -572,90 +572,86 @@ $denied denied
 $detained detained
 $citations citations earned
 $stamps stamps applied
-Ending $endnum of $endtotal","Played for $time
-$processed travelers processed
-$approved approved
-$denied denied
-$detained detained
-$citations citations earned
-$stamps stamps applied
-Ending $endnum of $endtotal"
+Ending $endnum of $endtotal","已经玩了$time
+检查了$processed个游客
+批准了$approved个人
+拒签了$denied个人
+拘捕了$detained个人
+得到了$citations条传讯
+盖了$stamps个章
+看了$endnum分之$endtotal个结局"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
-If this problem persists, re-install the Steam client.","STEAM CONNECTION FAILED
+If this problem persists, re-install the Steam client.","STEAM连接失败
 
-If this problem persists, re-install the Steam client."
+如果持续发生这个问题，请重新安装Steam客户端。"
 "text:steam_restartfailed","STEAM RESTART FAILED
 
-If this problem persists, re-install the Steam client.","STEAM RESTART FAILED
+If this problem persists, re-install the Steam client.","STEAM重启失败
 
-If this problem persists, re-install the Steam client."
+如果持续发生这个问题，请重新安装Steam客户端。"
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
-The game will attempt to restart through the Steam client.","STEAM CONNECTION FAILED
+The game will attempt to restart through the Steam client.","STEAM连接失败
 
-The game will attempt to restart through the Steam client."
-"text:steam_restart","RESTART","RESTART"
-"text:load_title","Select day to continue or start a new game","Select day to continue or start a new game"
+游戏尝试会通过Steam客户端重新启动。"
+"text:steam_restart","RESTART","重新启动"
+"text:load_title","Select day to continue or start a new game","请选择从哪一天继续游戏或重新开始新的游戏"
 "text:load_confirm_delete_single","Delete this day $0 save?
 
-There is no undo.","Delete this day $0 save?
+There is no undo.","删除这一天 $0 的存档？
 
-There is no undo."
+此操作不可取消。"
 "text:load_confirm_delete_multi","Delete this save branch from day $0 to day $1?
 
-There is no undo.","Delete this save branch from day $0 to day $1?
+There is no undo.","删除从 $0 到 $1 这天的存档？
 
-There is no undo."
-"text:load_delete","DELETE","DELETE"
+此操作不可取消。"
+"text:load_delete","DELETE","删除"
 "text:load_confirm_full","Save tracks full.
 
-Continue from a right-most save or delete a save branch to free up a track.","Save tracks full.
+Continue from a right-most save or delete a save branch to free up a track.","存档已满。
 
-Continue from a right-most save or delete a save branch to free up a track."
+继续存入最右的存档或删除一个存档释放存档空间。"
 "text:load_summary","Day $day
 ""$news""
 
 $savings credits, $family family members,
-$tokens tokens, apartment $apt","Day $day
+$tokens tokens, apartment $apt","第$day天
 ""$news""
 
-$savings credits, $family family members,
-$tokens tokens, apartment $apt"
-"text:load_continue","CONTINUE","CONTINUE"
-"text:emotion_happy","HAPPY","HAPPY"
-"text:emotion_ok","OK","OK"
-"text:emotion_sad","SAD","SAD"
-"text:emotion_cold","COLD","COLD"
-"text:emotion_sick","SICK","SICK"
-"text:emotion_verysick","VERY SICK","VERY SICK"
-"text:emotion_dead","DEAD","DEAD"
-"text:emotion_hungry","HUNGRY","HUNGRY"
-"text:load_latest","LATEST","LATEST"
-"text:entry_approved","ENTRY GRANTED","ENTRY GRANTED"
-"text:entry_denied","ENTRY DENIED","ENTRY DENIED"
-"text:stamp_approved","APPROVED","APPROVED"
-"text:stamp_denied","DENIED","DENIED"
-"text:stamp_reason","REASON","REASON"
-"text:booth_dragdocs","DRAG DOCUMENTS HERE","DRAG DOCUMENTS HERE"
-"text:booth_highlight","HIGHLIGHT DISCREPANCIES","HIGHLIGHT DISCREPANCIES"
+$savings 存款, $family 位家庭成员,
+$tokens tokens, 公寓 $apt"
+"text:load_continue","CONTINUE","继续"
+"text:emotion_happy","HAPPY","开心"
+"text:emotion_ok","OK","一般"
+"text:emotion_sad","SAD","悲伤"
+"text:emotion_cold","COLD","冷"
+"text:emotion_sick","SICK","生病"
+"text:emotion_verysick","VERY SICK","重病"
+"text:emotion_dead","DEAD","死亡"
+"text:emotion_hungry","HUNGRY","饥饿"
+"text:load_latest","LATEST","最近的"
+"text:entry_approved","ENTRY GRANTED","准许入境"
+"text:entry_denied","ENTRY DENIED","拒绝入境"
+"text:stamp_approved","APPROVED","批准"
+"text:stamp_denied","DENIED","拒签"
+"text:stamp_reason","REASON","理由"
+"text:booth_dragdocs","DRAG DOCUMENTS HERE","拖动文件至此"
+"text:booth_highlight","HIGHLIGHT DISCREPANCIES","指出差异之处"
 "text:booth_discrepancy","DISCREPANCY
-DETECTED","DISCREPANCY
-DETECTED"
-"text:booth_interrogate","INTERROGATE","INTERROGATE"
+DETECTED","发现差异"
+"text:booth_interrogate","INTERROGATE","审问"
 "text:booth_matching","MATCHING
-DATA","MATCHING
-DATA"
+DATA","匹配信息中"
 "text:booth_nocorrelation","NO
-CORRELATION","NO
-CORRELATION"
+CORRELATION","没有关联"
 "text:booth_cleared","DISCREPANCY
-CLEARED","DISCREPANCY
-CLEARED"
-"text:env_clearforentry","Applicant clear for entry","Applicant clear for entry"
-"text:env_lettermale","M","M"
-"text:env_letterfemale","F","F"
-"text:env_noalias","No known alias","No known alias"
+CLEARED","差异消除"
+"text:env_clearforentry","Applicant clear for entry","申请人可以入境"
+"text:env_lettermale","M","男"
+"text:env_letterfemale","F","女"
+"text:env_noalias","No known alias","无已知的别名"
 "text:env_typochars","aeiou,iuy,pgq,lj,ck,bh","aeiou,iuy,pgq,lj,ck,bh"
 "text:endless_complete","$style
 $course
@@ -665,54 +661,54 @@ $score Points","$style
 $course
 
 $time
-$score Points"
-"text:endless_ranked","Ranked #$0","Ranked #$0"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","Complete story mode with your job intact to unlock endless mode"
-"text:endless_wrongcode","S O R R Y","S O R R Y"
+$score 分"
+"text:endless_ranked","Ranked #$0","排名第 #$0 位"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","完成故事模式并保有工作以开启无尽模式"
+"text:endless_wrongcode","S O R R Y","对 不 起"
 "text:date_verbose","$month $day, $year","$month $day, $year"
-"text:month_1","January","January"
-"text:month_2","February","February"
-"text:month_3","March","March"
-"text:month_4","April","April"
-"text:month_5","May","May"
-"text:month_6","June","June"
-"text:month_7","July","July"
-"text:month_8","August","August"
-"text:month_9","September","September"
-"text:month_10","October","October"
-"text:month_11","November","November"
-"text:month_12","December","December"
-"text:day_1","1st","1st"
-"text:day_2","2nd","2nd"
-"text:day_3","3rd","3rd"
-"text:day_4","4th","4th"
-"text:day_5","5th","5th"
-"text:day_6","6th","6th"
-"text:day_7","7th","7th"
-"text:day_8","8th","8th"
-"text:day_9","9th","9th"
-"text:day_10","10th","10th"
-"text:day_11","11th","11th"
-"text:day_12","12th","12th"
-"text:day_13","13th","13th"
-"text:day_14","14th","14th"
-"text:day_15","15th","15th"
-"text:day_16","16th","16th"
-"text:day_17","17th","17th"
-"text:day_18","18th","18th"
-"text:day_19","19th","19th"
-"text:day_20","20th","20th"
-"text:day_21","21st","21st"
-"text:day_22","22nd","22nd"
-"text:day_23","23rd","23rd"
-"text:day_24","24th","24th"
-"text:day_25","25th","25th"
-"text:day_26","26th","26th"
-"text:day_27","27th","27th"
-"text:day_28","28th","28th"
-"text:day_29","29th","29th"
-"text:day_30","30th","30th"
-"text:day_31","31st","31st"
+"text:month_1","January","一月"
+"text:month_2","February","二月"
+"text:month_3","March","三月"
+"text:month_4","April","四月"
+"text:month_5","May","五月"
+"text:month_6","June","六月"
+"text:month_7","July","七月"
+"text:month_8","August","八月"
+"text:month_9","September","九月"
+"text:month_10","October","十月"
+"text:month_11","November","十一月"
+"text:month_12","December","十二月"
+"text:day_1","1st","1号"
+"text:day_2","2nd","2号"
+"text:day_3","3rd","3号"
+"text:day_4","4th","4号"
+"text:day_5","5th","5号"
+"text:day_6","6th","6号"
+"text:day_7","7th","7号"
+"text:day_8","8th","8号"
+"text:day_9","9th","9号"
+"text:day_10","10th","10号"
+"text:day_11","11th","11号"
+"text:day_12","12th","12号"
+"text:day_13","13th","13号"
+"text:day_14","14th","14号"
+"text:day_15","15th","15号"
+"text:day_16","16th","16号"
+"text:day_17","17th","17号"
+"text:day_18","18th","18号"
+"text:day_19","19th","19号"
+"text:day_20","20th","20号"
+"text:day_21","21st","21号"
+"text:day_22","22nd","22号"
+"text:day_23","23rd","23号"
+"text:day_24","24th","24号"
+"text:day_25","25th","25号"
+"text:day_26","26th","26号"
+"text:day_27","27th","27号"
+"text:day_28","28th","28号"
+"text:day_29","29th","29号"
+"text:day_30","30th","30号"
+"text:day_31","31st","31号"
 "text:bulletin_default","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -721,15 +717,15 @@ Inspector,
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","阿斯托茨卡
+出入境管理局
+公告
 
-Inspector,
+监察员，
 
 $content
 
-Glory to Arstotzka."
+阿斯托茨卡万岁。"
 "text:bulletin_notice","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -738,15 +734,15 @@ NOTICE:
 
 $content
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","阿斯托茨卡
+出入境管理局
+公告
 
-NOTICE:
+注意：
 
 $content
 
-Glory to Arstotzka."
+阿斯托茨卡万岁。"
 "text:bulletin_endless","Arstotzka
 Ministry of Admission
 Official Bulletin
@@ -755,15 +751,15 @@ $style
 
 $course
 
-Glory to Arstotzka.","Arstotzka
-Ministry of Admission
-Official Bulletin
+Glory to Arstotzka.","阿斯托茨卡
+出入境管理局
+公告
 
 $style
 
 $course
 
-Glory to Arstotzka."
+阿斯托茨卡万岁。"
 "bulletin:1A","Welcome to your new position at Grestin Border Checkpoint.
 
 Stamp passport ENTRY VISA and return documents to entrant.
