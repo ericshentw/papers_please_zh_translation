@@ -39,13 +39,13 @@
 "BulletinInnerMissingTut","Missing documents can be correlated by highlighting counter and pertinent entry in rule book.","将柜台与规则手册中相应条目相关联可指出缺失的文件。"
 "BulletinInnerRuleTut","Correlate pertinent entry in rule book with violating information to enable further options.","将规则手册中相应条目与违规行为相关联可激活进一步选项。"
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","将发现的武器和违禁品与规则手册中的相应条目相关联。"
-"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","在审查模式下选取两条不一致的信息来激活审问选项。"
+"BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","在审查模式下选取两条不一致的信息来激活审讯选项。"
 "BulletinInnerPassportTut","Pay attention to passport nationality.","注意护照上的国籍"
 "BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","阿斯托茨卡<br>出入境管理局"
 "BulletinInnerBoothTut","Inspector's Booth","监察员的房间"
 "BulletinInnerBoothTut","Shutter","百叶窗"
 "BulletinInnerBoothTut","Counter","柜台"
-"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规则手册<br>Audio Transcript<br>布告架<br>时间 &amp; 日期"
+"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规则手册<br>录音<br>布告架<br>时间 &amp; 日期"
 "BulletinInnerGunTut","Weapons Protocol","武器使用规则"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","当警报响起时"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","用钥匙开锁来取出武器"
@@ -216,7 +216,7 @@
 "RulesInnerBooth","INSPECTOR'S BOOTH","监察员的房间"
 "RulesInnerBooth","Shutter","百叶窗"
 "RulesInnerBooth","Counter","柜台"
-"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规则手册<br>Audio Trans.<br>布告架<br>时间 &amp; 日期"
+"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规则手册<br>录音<br>布告架<br>时间 &amp; 日期"
 "RulesInnerBooth","UPGRADES","升级"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","并未安装<br>任何升级"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","官方认证的"
@@ -288,7 +288,7 @@
 "SpyDocsInnerBack","Mating Habits of Lesser Kolechian Waterfowl","科勒齐亚小水禽交配习性"
 "SpyDocsInnerBack","A FULL REPORT","完整报告"
 "SpyDocsInnerBack","Ministry of Information","信息部"
-"TranscriptInner","AUDIO TRANSCRIPT","AUDIO TRANSCRIPT"
+"TranscriptInner","AUDIO TRANSCRIPT","录音"
 "VaccineCertInner","Certificate<span>of</span>Vaccination","疫苗接种<span> </span>证书"
 "VaccineCertInner","ID#","ID#"
 "VaccineCertInner","DATE","日期"
@@ -308,7 +308,7 @@
 "ApartmentClass","CLASS","等级"
 "DetainButton","DETAIN","扣押"
 "FingerprintButton","FINGERPRINT","指纹"
-"SearchButton","SEARCH","搜索"
+"SearchButton","SEARCH","搜查"
 "EmblemsMOA","M.O.A","出入境管理局"
 "EmblemsMOA","M.O.L","劳动局"
 "EmblemsMOL","M.O.L","劳动局"
@@ -372,7 +372,7 @@
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","工作机会少了，并会持续减少"
 "news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","移民正抢走本地人的饭碗"
 "news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","科勒齐亚领导人表示不满"
-"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","指责无端的边检破坏了人民的权益"
+"news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","指责毫无道理的入境搜查破坏了个人权益"
 "news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","恐怖分子再次袭击葛瑞斯汀边检站！"
 "news:AFTER_SUICIDE_BOMBER","Suicide Bomber Slips Through Security","自杀式爆炸者逃过安检"
 "news:GENERIC_BOMBER","Grestin Suffers Another Border Attack","葛瑞斯汀边境再次遭袭"
@@ -576,7 +576,7 @@ Ending $endnum of $endtotal","已经玩了$time
 检查了$processed个游客
 批准了$approved个人
 拒签了$denied个人
-拘捕了$detained个人
+扣押了$detained个人
 得到了$citations条传讯
 盖了$stamps个章
 看了$endnum分之$endtotal个结局"
@@ -820,71 +820,71 @@ Foreigners must secure and present a valid ENTRY PERMIT.
 
 Entry tickets are no longer sufficient.
 
-Continued...","Stricter credential requirements have been instituted.
+Continued...","现开始实施更严格的入境文件要求。
 
-Arstotzkan citizens must show their ID CARD.
+阿斯托茨卡公民须出示身份证。
 
-Foreigners must secure and present a valid 入境许可证.
+外国人须获得并出示合法的入境许可证。
 
-Entry tickets are no longer sufficient.
+仅出示入境凭证已不够。
 
-Continued..."
+未完待续……"
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
 
 Check all information thoroughly.
 
 Deny any applicant with discrepant documents.
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","A new chapter detailing document features has been added to your rulebook.
+Refer to the AUDIO TRANSCRIPT to correlate entrant's statements.","你的规则手册中已加入新的一章来详述各种文件的特点。
 
-Check all information thoroughly.
+仔细并完整地阅读所有的信息。
 
-Deny any applicant with discrepant documents.
+拒签所有文件不一致的申请人。
 
-Refer to the AUDIO TRANSCRIPT to correlate entrant's statements."
+如要审查入境者的陈述，请与录音相关联。"
 "bulletin:5A","You are now authorized to detain suspicious individuals.
 
-Interrogate discrepancies to enable detention option.","You are now authorized to detain suspicious individuals.
+Interrogate discrepancies to enable detention option.","你现在已被授权直接拘捕可疑分子。
 
-Interrogate discrepancies to enable detention option."
+审讯并找出不一致的地方可激活扣押选项"
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
-Travelers entering for work require a valid WORK PASS.","The Ministry of Labor has instituted a special program to control immigrant labor.
+Travelers entering for work require a valid WORK PASS.","劳动部制定了一条特殊的计划以控制入境劳工。
 
-Travelers entering for work require a valid WORK PASS."
+以入境工作为目的的游客须持有合法的工作许可。"
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
 
-Search all Kolechians before approving their entry.","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
+Search all Kolechians before approving their entry.","为了帮助你更好地执行全面检查，我们为你的工作间安装了一套搜查系统。
 
-Kolechian extremists are suspected in yesterday's bombing. 
+昨天的爆炸疑似是科勒齐亚极端分子所为。
 
-Search all Kolechians before approving their entry."
+在批准任何科勒齐亚人入境之前，必须做全身搜查。"
 "bulletin:8A","The Kolechians have filed a formal complaint. 
 
 A diplomat will arrive today for high-level discussions.
 
 Automatic searches of Kolechian citizens are no longer authorized.
 
-Continued...[PAGESNOTE]","The Kolechians have filed a formal complaint. 
+Continued...[PAGESNOTE]","科勒齐亚提出正式抗议。
 
-A diplomat will arrive today for high-level discussions.
+今天，会有一位外交官到访进行高层会晤。
 
-Automatic searches of Kolechian citizens are no longer authorized.
+所以现在无权对科勒齐亚公民进行自动搜查了。
 
-Continued...[PAGESNOTE]"
+未完待续……[PAGESNOTE]"
 "bulletin:8B","__________________________
 DIPLOMATS
 
 Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
 
 Refer to the rulebook for updated document information.","__________________________
-DIPLOMATS
+外交官
 
-Diplomats require only a PASSPORT and valid DIPLOMATIC AUTHORIZATION to enter. 
+外交官仅需提供护照及一份合法的外交授权书便可入境。
 
-Refer to the rulebook for updated document information."
+更新的文件信息请参阅规则手册。"
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","An undercover agent of the Ministry of Information has been compromised.
@@ -932,7 +932,7 @@ Check faces against entrants and detain suspects immediately.[PAGESNOTE]","The M
 
 Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]"
+Check faces against entrants and 扣押 suspects immediately.[PAGESNOTE]"
 "bulletin:16A","The Ministry of Justice has appropriated the outer guard detail. 
 
 You are now responsible for controlling trespasser activity.
@@ -1235,7 +1235,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","ACCOUNTING","ACCOUNTING"
 "facts","FISHING","FISHING"
 "facts","DRAFTING","DRAFTING"
-"facts","RESEARCH","RESEARCH"
+"facts","RESEARCH","研究"
 "facts","FINE-ARTS","FINE-ARTS"
 "facts","AGRICULTURE","AGRICULTURE"
 "facts","MANUFACTURING","MANUFACTURING"
@@ -1302,7 +1302,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Arstotzkan citizens only","Arstotzkan citizens only"
 "facts","No entry from United Federation","No entry from United Federation"
 "facts","No weapons or contraband","No weapons or contraband"
-"facts","All Kolechians must be searched","All Kolechians must be searched"
+"facts","All Kolechians must be searched","必须搜查所有科勒齐亚人"
 "facts","Diplomats require authorization","Diplomats require authorization"
 "facts","Entrant must have polio vaccine cert","Entrant must have polio vaccine cert"
 "facts","Asylum seekers must have a grant","Asylum seekers must have a grant"
