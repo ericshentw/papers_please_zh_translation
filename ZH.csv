@@ -664,7 +664,7 @@ $time
 $score 分"
 "text:endless_ranked","Ranked #$0","排名第 #$0 位"
 "text:endless_unlock","Complete story mode with your job intact to unlock endless mode","完成故事模式并保有工作以开启无尽模式"
-"text:endless_wrongcode","S O R R Y","对 不 起"
+"text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$month $day, $year"
 "text:month_1","January","一月"
 "text:month_2","February","二月"
@@ -785,7 +785,7 @@ Continued...[PAGESNOTE]","从今天开始，拥有合法护照的外国人将被
 
 仔细检查护照上的所有信息并找出任何可疑之处。拒绝任何信息不一致的入境者入境。
 
-未完待续……【见附注】"
+未完待续…… [PAGESNOTE]"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -811,7 +811,7 @@ Verify information before stamping passport ENTRY VISA and returning all documen
 
 所有外国人都必须持有合法的入境凭证。
 
-在盖章批准入境和退还文件给持有人之前须核实信息。【见附注】"
+在盖章批准入境和退还文件给持有人之前须核实信息。 [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
