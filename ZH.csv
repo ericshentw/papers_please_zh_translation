@@ -766,26 +766,26 @@ Stamp passport ENTRY VISA and return documents to entrant.
 
 Entry is restricted to Arstotzkan citizens only.
 
-Deny all foreigners.","Welcome to your new position at Grestin Border Checkpoint.
+Deny all foreigners.","欢迎你到葛瑞斯汀边境检查站履新。
 
-Stamp passport ENTRY VISA and return documents to entrant.
+你要做的就是在入境者的护照入境签证页盖章并将文件退还。
 
-Entry is restricted to Arstotzkan citizens only.
+仅允许阿斯托茨卡公民入境。
 
-Deny all foreigners."
+拒绝所有外国人入境。"
 "bulletin:2A","From today, foreigners with a valid passport are permitted to enter.
 
 Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","From today, foreigners with a valid passport are permitted to enter.
+Continued...[PAGESNOTE]","从今天开始，拥有合法护照的外国人将被准许入境。
 
-Your booth's INSPECTION hardware is now installed.
+你的工作间已安装了用于审查的装置。
 
-Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
+仔细检查护照上的所有信息并找出任何可疑之处。拒绝任何信息不一致的入境者入境。
 
-Continued...[PAGESNOTE]"
+未完待续……【见附注】"
 "bulletin:2B","__________________________
 INSPECT MODE
 
@@ -795,23 +795,23 @@ __________________________
 RULES &amp; REGULATIONS
 
 This post is bound by Ministry of Admission rules and regulations. Study the rule book closely.","__________________________
-INSPECT MODE
+审查模式
 
-Enter INSPECT mode using the red button on your desk. While inspecting, highlight two pieces of discrepant information for further options.
+点击你桌面上的红色按钮来激活审查模式。在审查时，指出两条不一致的信息来激活后续选项。
 
 __________________________
-RULES &amp; REGULATIONS
+规则及章程
 
-This post is bound by Ministry of Admission rules and regulations. Study the rule book closely."
+此职位受出入境管理局的规则及章程的约束。请仔细阅读规则手册。"
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","Entry for non-citizens is now regulated. 
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","非公民的入境者现需要受到限制。
 
-All foreigners require a valid ENTRY TICKET.
+所有外国人都必须持有合法的入境凭证。
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]"
+在盖章批准入境和退还文件给持有人之前须核实信息。【见附注】"
 "bulletin:4A","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
@@ -824,7 +824,7 @@ Continued...","Stricter credential requirements have been instituted.
 
 Arstotzkan citizens must show their ID CARD.
 
-Foreigners must secure and present a valid ENTRY PERMIT.
+Foreigners must secure and present a valid 入境许可证.
 
 Entry tickets are no longer sufficient.
 
@@ -1017,7 +1017,7 @@ Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.",
 
 Those seeking asylum must carry a valid GRANT OF ASYLUM.
 
-Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT."
+Entrants with such a grant do not require an ENTRY PERMIT or an 身份补充文件."
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
 Follow all protocols strictly.","Your position is important and your responsibilities are broad.
@@ -1080,7 +1080,7 @@ Continue to confiscate Arstotzkan passports from residents living in ALTAN distr
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
-Continued...","In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+Continued...","In order to improve efficiency, the 入境许可证 and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
@@ -1187,12 +1187,12 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Orvech Vonor","Orvech Vonor"
 "facts","East Grestin","East Grestin"
 "facts","Paradizna","帕拉迪兹纳"
-"facts","Passport","Passport"
-"facts","Entry Ticket","Entry Ticket"
-"facts","Entry Permit","Entry Permit"
-"facts","Work Pass","Work Pass"
-"facts","Id Card","Id Card"
-"facts","Id Supplement","Id Supplement"
+"facts","Passport","护照"
+"facts","Entry Ticket","入境凭证"
+"facts","Entry Permit","入境许可证"
+"facts","Work Pass","工作许可"
+"facts","Id Card","身份证"
+"facts","Id Supplement","身份补充文件"
 "facts","Access Permit","Access Permit"
 "facts","Diplomatic Auth","Diplomatic Auth"
 "facts","Asylum Grant","Asylum Grant"
@@ -1270,7 +1270,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Incorrect purpose response","Incorrect purpose response"
 "facts","Incorrect visit duration response","Incorrect visit duration response"
 "facts","Passport: Non-matching photo","Passport: Non-matching photo"
-"facts","Forged Entry Permit","Forged Entry Permit"
+"facts","Forged Entry Permit","伪造的入境许可证"
 "facts","Forged Work Pass","Forged Work Pass"
 "facts","Id Card: Non-matching photo","Id Card: Non-matching photo"
 "facts","Forged Access Permit","Forged Access Permit"
@@ -1293,12 +1293,12 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Possible Terrorist Admitted","Possible Terrorist Admitted"
 "facts","Entrant Holds Conflicting Passports","Entrant Holds Conflicting Passports"
 "facts","Entrant must have a passport","Entrant must have a passport"
-"facts","Foreigners require an entry permit","Foreigners require an entry permit"
+"facts","Foreigners require an entry permit","Foreigners require an 入境许可证"
 "facts","Foreigners require an entry ticket","Foreigners require an entry ticket"
 "facts","All documents must be current","All documents must be current"
 "facts","Workers must have a work pass","Workers must have a work pass"
 "facts","Citizens must have an id card","Citizens must have an id card"
-"facts","Foreigners require an id supplement","Foreigners require an id supplement"
+"facts","Foreigners require an id supplement","Foreigners require an 身份补充文件"
 "facts","Arstotzkan citizens only","Arstotzkan citizens only"
 "facts","No entry from United Federation","No entry from United Federation"
 "facts","No weapons or contraband","No weapons or contraband"
@@ -1331,9 +1331,9 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "paper:Rules","OBRISTAN","OBRISTAN"
 "paper:Rules","REPUBLIA","REPUBLIA"
 "paper:Rules","UNITED FED.","UNITED FED."
-"paper:Rules","Id Card (Native)","Id Card (Native)"
-"paper:Rules","Entry Permit","Entry Permit"
-"paper:Rules","Id Supplement","Id Supplement"
+"paper:Rules","Id Card (Native)","身份证（本国人）"
+"paper:Rules","Entry Permit","入境许可证"
+"paper:Rules","Id Supplement","身份补充文件"
 "paper:Rules","Access Permit","Access Permit"
 "paper:Rules","Work Pass","Work Pass"
 "paper:Rules","Diplomatic Auth.","Diplomatic Auth."
