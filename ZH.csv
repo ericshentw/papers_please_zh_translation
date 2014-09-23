@@ -45,7 +45,7 @@
 "BulletinInnerBoothTut","Inspector's Booth","监察员的房间"
 "BulletinInnerBoothTut","Shutter","百叶窗"
 "BulletinInnerBoothTut","Counter","柜台"
-"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规则手册<br>录音<br>布告架<br>时间 &amp; 日期"
+"BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规则手册<br>录音<br>公告架<br>时间 &amp; 日期"
 "BulletinInnerGunTut","Weapons Protocol","武器使用规则"
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","当警报响起时"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","用钥匙开锁来取出武器"
@@ -102,7 +102,7 @@
 "GymFlyerInner","East Grestin","东葛瑞斯汀"
 "HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","此入境者未提供文件"
 "HintMissingInner","To proceed, use INSPECT mode to interrogate.","如要继续, 使用 审查 模式来审问。"
-"HintMissingInner","Review page 2 of today's bulletin for full instructions.","查看今天布告的第二页以获取完整的说明。"
+"HintMissingInner","Review page 2 of today's bulletin for full instructions.","查看今天公告的第二页以获取完整的说明。"
 "IdCardInner","ARSTOTZKA IDENTITY CARD","阿斯托茨卡身份证"
 "IdCardInner","DOB","生日"
 "IdCardInner","HT.","身高"
@@ -216,7 +216,7 @@
 "RulesInnerBooth","INSPECTOR'S BOOTH","监察员的房间"
 "RulesInnerBooth","Shutter","百叶窗"
 "RulesInnerBooth","Counter","柜台"
-"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规则手册<br>录音<br>布告架<br>时间 &amp; 日期"
+"RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规则手册<br>录音<br>公告<br>时间 &amp; 日期"
 "RulesInnerBooth","UPGRADES","升级"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","并未安装<br>任何升级"
 "RulesInnerDocs","OFFICIALLY RECOGNIZED","官方认证的"
@@ -887,65 +887,65 @@ Refer to the rulebook for updated document information.","______________________
 更新的文件信息请参阅规则手册。"
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","An undercover agent of the Ministry of Information has been compromised.
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","信息部的一位秘密探员的身份泄露了。
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today."
+出入境管理局负责联络他，预计今天晚些时候他可能会来。"
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
-Maintain your best behavior.","The divisional authority of East Grestin operations will visit today.
+Maintain your best behavior.","今天主管东葛瑞斯汀的部门领导会来视察。
 
-Maintain your best behavior."
+好好表现。"
 "bulletin:11A","A break-in at M.O.A. offices may have compromised our document sealing plates.
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","A break-in at M.O.A. offices may have compromised our document sealing plates.
+Continued...","出入境管理局办公室发生入室盗窃事件，可能致使我们的文件印章版泄露了。
 
-Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
+虽无任何东西被盗但情报称已发现有伪造阿斯托茨卡公文的迹象。
 
-Continued..."
+喂完待续……"
 "bulletin:11B","__________________________
 FORGERIES
 
 Double-check that required documents contain valid seals. 
 
 Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook.","__________________________
-FORGERIES
+伪造文件
 
-Double-check that required documents contain valid seals. 
+仔细审查那些所需的文件以确保它们包含合法印章。
 
-Correlate missing or wrong seals against the appropriate entries in the DOCUMENTS chapter of your rulebook."
+将那些印章缺失或印章错误的情况与你的规则手册中文件那一章中的相应的条目向关联。"
 "bulletin:13A","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
 
 From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
 
-The rulebook DOCUMENTS chapter has been updated.","The new director is unsatisfied with the level of scrutiny afforded to foreigners.
+The rulebook DOCUMENTS chapter has been updated.","新部长对于现在这种对于外国人的入境审核等级非常不满
 
-From today forward, all foreign entrants must present a recent IDENTITY SUPPLEMENT listing weight, height, and appearance.
+从今天起，所有外国入境者必须提供一份近期的身份补充文件，上面须列明体重、身高以及体貌特征。
 
-The rulebook DOCUMENTS chapter has been updated."
+规则手册中的文件章节已做了相应的更新。"
 "bulletin:14A","The Ministry of Justice has requested our support.
 
 Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
 
-Check faces against entrants and detain suspects immediately.[PAGESNOTE]","The Ministry of Justice has requested our support.
+Check faces against entrants and detain suspects immediately.[PAGESNOTE]","司法部寻求我们的帮助。
 
-Daily bulletins will now contain a listing of the top 3 most wanted international criminals.
+每日公告现将包含3个最高通缉的国际罪犯。
 
-Check faces against entrants and 扣押 suspects immediately.[PAGESNOTE]"
+仔细审查入境者的相貌并立即扣押嫌疑人。[PAGESNOTE]"
 "bulletin:16A","The Ministry of Justice has appropriated the outer guard detail. 
 
 You are now responsible for controlling trespasser activity.
 
 The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
 
-Continued...[PAGESNOTE]","The Ministry of Justice has appropriated the outer guard detail. 
+Continued...[PAGESNOTE]","司法部拨款加强边检站外围的安保。
 
-You are now responsible for controlling trespasser activity.
+你现在也对控制偷渡行为负有责任。
 
-The provided key can be used to unlock the tranquilizer gun once an alarm has been raised.
+当警铃响起时，给你的这把钥匙能解锁麻醉枪。
 
-Continued...[PAGESNOTE]"
+未完待续……[PAGESNOTE]"
 "bulletin:16B","__________________________
 COMPENSATION
 
@@ -955,14 +955,14 @@ __________________________
 WEAPONS PROTOCOL
 
 Review instructional diagram on following page.","__________________________
-COMPENSATION
+报酬
 
-You will receive a bonus for stopping any trespasser. A smaller bonus is provided for firing on, but missing, your target.
+当你阻止了任何偷渡者时，你会得到额外的奖金。但如果你射击却未命中目标时，只能得到少量奖金。
 
 __________________________
-WEAPONS PROTOCOL
+武器使用规则
 
-Review instructional diagram on following page."
+参见下一页上的指示图。"
 "bulletin:18A","Unfavorable international press has affected immigration protocol.
 
 All denials must be accompanied by a REASON FOR DENIAL stamp.
