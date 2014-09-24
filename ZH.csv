@@ -289,7 +289,7 @@
 "SpyDocsInnerBack","A FULL REPORT","完整报告"
 "SpyDocsInnerBack","Ministry of Information","情报局"
 "TranscriptInner","AUDIO TRANSCRIPT","录音"
-"VaccineCertInner","Certificate<span>of</span>Vaccination","疫苗接种<span> </span>证书"
+"VaccineCertInner","Certificate<span>of</span>Vaccination","疫苗接种<span> </span>证明"
 "VaccineCertInner","ID#","ID#"
 "VaccineCertInner","DATE","日期"
 "VaccineCertInner","VACCINE","疫苗"
@@ -1042,71 +1042,71 @@ Confiscate all Arstotzkan passports from residents living in ALTAN district.
 
 Travelers may still be granted entry if passport is confiscated and no other rules are violated.
 
-PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","The rulebook has been updated with information regarding confiscation policy.
+PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport.","规则手册上已更新了关于没收政策的信息。
 
-Confiscate all Arstotzkan passports from residents living in ALTAN district.
+没收所有阿尔坦地区的阿斯托茨卡居民的护照。
 
-Travelers may still be granted entry if passport is confiscated and no other rules are violated.
+在不违反其他任何规定的情况下，被没收护照的旅客仍可能可以被给予入境许可。
 
-PASSPORT SEIZURE slips will be issued to allow entry or denial without a passport."
+护照扣押单可被用于在没有护照的情况下给予入境批准或拒绝入境。"
 "bulletin:25A","United Federation citizens present a risk of spreading infectious disease.
 
 Deny all entrants from United Federation.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","United Federation citizens present a risk of spreading infectious disease.
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","共和联邦的公民可能散播传染病。
 
-Deny all entrants from United Federation.
+拒绝所有来自共和联邦的入境者。
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+继续没收住在阿尔坦地区的阿斯托茨卡居民的护照。"
 "bulletin:26A","The risk of disease is too great. A new protocol has been instituted.
 
 All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
 
 This requirement extends to natives, foreigners, diplomats, and asylum seekers.
 
-Continued...","The risk of disease is too great. A new protocol has been instituted.
+Continued...","传染病的威胁太大了，政府设立了一项新的规定。
 
-All entrants must carry a valid CERTIFICATE OF VACCINATION with an up-to-date POLIO vaccine.
+所有入境者必须持有合法的疫苗接种证明并在近期接种过脊髓灰质炎疫苗。
 
-This requirement extends to natives, foreigners, diplomats, and asylum seekers.
+此项规定对所有本国人，外国人，外交官以及政治避难者均有效。
 
-Continued..."
+未完待续……"
 "bulletin:26B","United Federation citizens are permitted entry with such certification.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","United Federation citizens are permitted entry with such certification.
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","持此证明的共和联邦公民可以准许入境。
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+继续没收住在阿尔坦地区的阿斯托茨卡居民的护照。"
 "bulletin:27A","In order to improve efficiency, the ENTRY PERMIT and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
 
 Foreigners are now required to present a valid ACCESS PERMIT.
 
-Continued...","In order to improve efficiency, the 入境许可证 and ID SUPPLEMENT have been consolidated into a single ACCESS PERMIT.
+Continued...","为了提高效率，入境许可证和身份证明文件被合并成为一份单独的文件称为进境许可证。
 
-Foreigners are now required to present a valid ACCESS PERMIT.
+外国人如需入境须提供合法的进境许可证。
 
-Continued..."
+未完待续……"
 "bulletin:27B","Yesterday's coordinated attack has prompted an emergency meeting. 
 
 An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","Yesterday's coordinated attack has prompted an emergency meeting. 
+Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨天那起有组织的袭击促使政府召开了紧急会议。 
 
-An important Kolechian negotiator will arrive today to discuss issues at this checkpoint.
+一位重要的科勒齐亚谈判家今天会到访来讨论关于这个检查站的问题。
 
-Continue to confiscate Arstotzkan passports from residents living in ALTAN district."
+继续没收住在阿尔坦地区的阿斯托茨卡居民的护照。"
 "bulletin:28A","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
 
 Confiscate all Arstotzkan passports from native entrants.
 
 There are no exceptions.
 
-Do not confiscate foreign passports.","In response to continued attacks, the 情报局 is expanding the passport confiscation program.
+Do not confiscate foreign passports.","作为对于持续攻击的回应，情报局扩大了护照没收项目的力度。
 
-Confiscate all Arstotzkan passports from native entrants.
+没收所有阿斯托茨卡本国入境者的护照。
 
-There are no exceptions.
+无一例外。
 
-Do not confiscate foreign passports."
+不要没收外国人的护照。"
 "bulletin:29A","[NOTICE] All government workers are subject to a thorough information audit. Involvement with unauthorized groups is grounds for immediate arrest.
 
 Your audit is scheduled for: DECEMBER 24
