@@ -52,7 +52,7 @@
 "BulletinInnerGunTut","Select gun, aim and fire.","选择武器，瞄准并射击。"
 "BulletinInnerGunTut","Time is short. Act fast.","留给你的时间不多。行动要快。"
 "BulletinInnerFilerTut","Passport Confiscation","没收护照"
-"BulletinInnerFilerTut","Verify ALTAN resident on id.","核实 ALTAN 公民的身份证"
+"BulletinInnerFilerTut","Verify ALTAN resident on id.","核实阿尔坦居民的身份证"
 "BulletinInnerFilerTut","Drop passport in confiscation drawer.","将护照放入没收专用的抽屉"
 "BulletinInnerFilerTut","If arresting, confiscate before detaining.","如需逮捕持有人，需在扣押前没收护照"
 "BulletinInnerCriminals","Ministry of Justice","司法部"
@@ -186,11 +186,11 @@
 "PoisonInnerOpen2","ALIGN POWDER OVER PASSPORT","将粉末放置于护照上"
 "PoisonInnerOpen2","PUSH HARD TO AFFIX","用力按压以贴紧"
 "PoisonInnerOpen2","CLOSE","CLOSE"
-"PoliceBadgeInner","MINISTRY OF INFORMATION","信息部"
+"PoliceBadgeInner","MINISTRY OF INFORMATION","情报局"
 "PoliceBadgeInner","Office of Investigation","调查司"
 "PoliceBadgeInner","East Grestin Division","东葛瑞斯汀分局"
 "PoliceBadgeInner","Special Investigator","特殊调查员"
-"PoliceBadgeInner","MOI","信息部"
+"PoliceBadgeInner","MOI","情报局"
 "PressPassInner","INTERNATIONAL","国际"
 "PressPassInner","PRESS","新闻记者"
 "PressPassInner","IDENTIFICATION","证"
@@ -287,7 +287,7 @@
 "SeizureSlipInner","Contact 1509-6103 for redress.","如需更正，请联系1509-6103"
 "SpyDocsInnerBack","Mating Habits of Lesser Kolechian Waterfowl","科勒齐亚小水禽交配习性"
 "SpyDocsInnerBack","A FULL REPORT","完整报告"
-"SpyDocsInnerBack","Ministry of Information","信息部"
+"SpyDocsInnerBack","Ministry of Information","情报局"
 "TranscriptInner","AUDIO TRANSCRIPT","录音"
 "VaccineCertInner","Certificate<span>of</span>Vaccination","疫苗接种<span> </span>证书"
 "VaccineCertInner","ID#","ID#"
@@ -887,7 +887,7 @@ Refer to the rulebook for updated document information.","______________________
 更新的文件信息请参阅规则手册。"
 "bulletin:9A","An undercover agent of the Ministry of Information has been compromised.
 
-The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","信息部的一位秘密探员的身份泄露了。
+The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","情报局的一位秘密探员的身份泄露了。
 
 出入境管理局负责联络他，预计今天晚些时候他可能会来。"
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
@@ -1004,38 +1004,38 @@ Deny all travelers from Impor.","印波拒收来自阿斯托茨卡的所有进�
 
 Imporians are now permitted entry.
 
-The divisional authority of East Grestin operations will visit again today.","Impor has relented on their faulty policy.
+The divisional authority of East Grestin operations will visit again today.","印波的错误政策有所软化。
 
-Imporians are now permitted entry.
+印波人现在可以被准许入境。
 
-The divisional authority of East Grestin operations will visit again today."
+主管东葛瑞斯汀的部门领导今天会再次到访。"
 "bulletin:21A","A special program for political asylum has been established.
 
 Those seeking asylum must carry a valid GRANT OF ASYLUM.
 
-Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","A special program for political asylum has been established.
+Entrants with such a grant do not require an ENTRY PERMIT or an ID SUPPLEMENT.","现在实施了一项针对政治避难的特殊政策。
 
-Those seeking asylum must carry a valid GRANT OF ASYLUM.
+那些寻求政治避难的入境者必须持有合法的庇护授予书。
 
-Entrants with such a grant do not require an ENTRY PERMIT or an 身份补充文件."
+持有庇护授予书的入境者无需提供入境许可证或身份补充文件."
 "bulletin:23A","Your position is important and your responsibilities are broad.
 
-Follow all protocols strictly.","Your position is important and your responsibilities are broad.
+Follow all protocols strictly.","你的职位非常重要，你的职责范围也非常宽。
 
-Follow all protocols strictly."
+请严格遵守所有的规章制度。"
 "bulletin:24A","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
 
 The Ministry of Information has requested our cooperation.
 
 A special drawer for confiscating documents has been installed in your booth.
 
-Continued...","Recent events have cast suspicion on the activities of Arstotzkan citizens in the ALTAN district.
+Continued...","近期的一系列事件使阿尔坦地区的阿斯托茨卡公民的行为受到怀疑。
 
-The Ministry of Information has requested our cooperation.
+情报局请求我们的配合。
 
-A special drawer for confiscating documents has been installed in your booth.
+你的工作间中安装了一个新的专门用于没收文件的抽屉。
 
-Continued..."
+未完待续……"
 "bulletin:24B","The rulebook has been updated with information regarding confiscation policy.
 
 Confiscate all Arstotzkan passports from residents living in ALTAN district.
@@ -1100,7 +1100,7 @@ Confiscate all Arstotzkan passports from native entrants.
 
 There are no exceptions.
 
-Do not confiscate foreign passports.","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
+Do not confiscate foreign passports.","In response to continued attacks, the 情报局 is expanding the passport confiscation program.
 
 Confiscate all Arstotzkan passports from native entrants.
 
@@ -1195,7 +1195,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Id Supplement","身份补充文件"
 "facts","Access Permit","Access Permit"
 "facts","Diplomatic Auth","Diplomatic Auth"
-"facts","Asylum Grant","Asylum Grant"
+"facts","Asylum Grant","庇护授予书"
 "facts","Vaccine Cert","Vaccine Cert"
 "facts","Identity Record","Identity Record"
 "facts","Fingerprints","Fingerprints"
@@ -1216,7 +1216,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","District","District"
 "facts","Gender","Gender"
 "facts","Work End Date","Work End Date"
-"facts","Altan","Altan"
+"facts","Altan","阿尔坦"
 "facts","Vescillo","Vescillo"
 "facts","Burnton","Burnton"
 "facts","Octovalis","Octovalis"
@@ -1276,7 +1276,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Forged Access Permit","Forged Access Permit"
 "facts","No Diplomatic Access to Arstotzka","No Diplomatic Access to Arstotzka"
 "facts","Forged Diplomatic Auth","Forged Diplomatic Auth"
-"facts","Forged Asylum Grant Seal","Forged Asylum Grant Seal"
+"facts","Forged Asylum Grant Seal","伪造的庇护授予书印章"
 "facts","Necessary vaccine expired","Necessary vaccine expired"
 "facts","Missing necessary vaccine","Missing necessary vaccine"
 "facts","Name does not match record","Name does not match record"
@@ -1307,8 +1307,8 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "facts","Entrant must have polio vaccine cert","Entrant must have polio vaccine cert"
 "facts","Asylum seekers must have a grant","Asylum seekers must have a grant"
 "facts","Foreigners require an access permit","Foreigners require an access permit"
-"facts","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS."
-"facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS."
+"facts","CONFISCATE ARSTOTZKAN PASSPORTS BELONGING TO ALTAN RESIDENTS.","没收属于阿尔坦居民的阿斯托茨卡护照。"
+"facts","CONFISCATE ALL ARSTOTZKAN PASSPORTS. NO EXCEPTIONS.","没收所有阿斯托茨卡人的护照，无一例外。"
 "facts","Passport not confiscated","Passport not confiscated"
 "paper:SecondPassport","West Grestin","West Grestin"
 "paper:Rules","Basic Rules","基本规则"
@@ -1337,7 +1337,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "paper:Rules","Access Permit","Access Permit"
 "paper:Rules","Work Pass","Work Pass"
 "paper:Rules","Diplomatic Auth.","Diplomatic Auth."
-"paper:Rules","Grant of Asylum","Grant of Asylum"
+"paper:Rules","Grant of Asylum","庇护授予书"
 "paper:Rules","Vaccine Cert.","Vaccine Cert."
 "intro","Congratulations.","Congratulations."
 "intro","The October labor lottery is complete. Your name was pulled.","The October labor lottery is complete. Your name was pulled."
@@ -1355,7 +1355,7 @@ Continue to confiscate all Arstotzkan passports from native entrants."
 "end:family-dead","Your position will be filled by someone more appropriate.","Your position will be filled by someone more appropriate."
 "end:family-dead","Glory to Arstotzka.","Glory to Arstotzka."
 "end:turned-over-ezic-docs","You are under arrest for associating with suspicious groups.","You are under arrest for associating with suspicious groups."
-"end:turned-over-ezic-docs","The Ministry of Information will perform a full audit of your recent activities.","The Ministry of Information will perform a full audit of your recent activities."
+"end:turned-over-ezic-docs","The Ministry of Information will perform a full audit of your recent activities.","情报局 will perform a full audit of your recent activities."
 "end:turned-over-ezic-docs","Glory to Arstotzka.","Glory to Arstotzka."
 "end:caught-with-ezic-money","The Ministry of Income has discovered an anomaly in your earnings.","The Ministry of Income has discovered an anomaly in your earnings."
 "end:caught-with-ezic-money","You are under arrest pending a full audit of your recent activities.","You are under arrest pending a full audit of your recent activities."
@@ -1562,7 +1562,7 @@ Process travelers until your balance drops below zero. Citations penalize an esc
 "night:EZIC_CLEARED","Your savings will not be returned.","Your savings will not be returned."
 "night:EZIC_REWARD","A small package arrived.","A small package arrived."
 "night:EZIC_REWARD","EZIC GIFT","EZIC GIFT"
-"night:TAKE_FAMILY_PASSPORTS","The Ministry of Information has confiscated your family's passports.","The Ministry of Information has confiscated your family's passports."
+"night:TAKE_FAMILY_PASSPORTS","The Ministry of Information has confiscated your family's passports.","情报局 has confiscated your family's passports."
 "night:ESCAPE","You can now escape to Obristan by yourself.","You can now escape to Obristan by yourself."
 "night:ESCAPE","You can now escape to Obristan with one family member.","You can now escape to Obristan with one family member."
 "night:ESCAPE","You can now escape to Obristan with two family members.","You can now escape to Obristan with two family members."
@@ -1616,7 +1616,7 @@ WILL SOLVE PROBLEM
 
 DENY AT OWN RISK","LARGE GIFT WAS MISTAKE
 
-MINISTRY OF INFORMATION NOW INVESTIGATES YOUR CONNECTION TO EZIC
+情报局 NOW INVESTIGATES YOUR CONNECTION TO EZIC
 
 NEXT AGENT COMES TODAY
 
@@ -2501,11 +2501,11 @@ HOLD YOUR FIRE
 "traveler:BUSTED_SPY","You must hold on to these.","You must hold on to these."
 "traveler:BUSTED_SPY","Keep them safe today.","Keep them safe today."
 "traveler:BUSTED_SPY","I am being followed by an imposter.","I am being followed by an imposter."
-"traveler:BUSTED_SPY","They pretend to be from the Ministry of Information but it is a lie.","They pretend to be from the Ministry of Information but it is a lie."
+"traveler:BUSTED_SPY","They pretend to be from the Ministry of Information but it is a lie.","They pretend to be from 情报局 but it is a lie."
 "traveler:BUSTED_SPY","If they ask for documents, give these instead.","If they ask for documents, give these instead."
 "traveler:BUSTED_SPY","Do not mix them up.","Do not mix them up."
 "traveler:BUSTED_SPY_FOLLOWER","@Your papers?","@Your papers?"
-"traveler:BUSTED_SPY_FOLLOWER","I am from the Ministry of Information.","I am from the Ministry of Information."
+"traveler:BUSTED_SPY_FOLLOWER","I am from the Ministry of Information.","I am from 情报局."
 "traveler:BUSTED_SPY_FOLLOWER","You have something to give us.","You have something to give us."
 "traveler:BUSTED_SPY_FOLLOWER","Perfect.","Perfect."
 "traveler:GYM_INSTRUCTOR","You are skin and bones.","You are skin and bones."
