@@ -8,30 +8,30 @@
 "AccessPermitInner","HEIGHT","身高"
 "AccessPermitInner","PHYSICAL APPEARANCE","外貌特征"
 "AccessPermitInner","ID NUMBER","身份证号"
-"AccessPermitInner","DURATION","入境期限"
+"AccessPermitInner","DURATION","滞留期限"
 "AccessPermitInner","WEIGHT","体重"
 "AccessPermitInner","ENTER BY","入境日"
 "AccessPermitInner","Keep on person","请务必随身携带"
-"AccessPermitInner","Ministry of Admission","出入境管理局"
-"AsylumGrantInner","Arstotzka","Arstotzka"
+"AccessPermitInner","Ministry of Admission","入境管理局"
+"AsylumGrantInner","Arstotzka","阿斯托茨卡"
 "AsylumGrantInner","GRANT of ASYLUM","庇护授予书"
 "AsylumGrantInner","This document grants conditional asylum status within Arstotzkan borders","此文件授予持有人在阿斯托茨卡境内有限制的庇护权"
 "AsylumGrantInner","NAT","国籍"
-"AsylumGrantInner","ID#","ID#"
+"AsylumGrantInner","ID#","ID号"
 "AsylumGrantInner","DOB","生日"
 "AsylumGrantInner","HT","身高"
 "AsylumGrantInner","WT","体重"
 "AsylumGrantInner","Offer expires after","有效期至"
-"AsylumGrantInner","Ministry of Admission","出入境管理局"
+"AsylumGrantInner","Ministry of Admission","入境管理局"
 "BizCardInnerFront","ENGINEERING","工程公司"
 "BizCardInnerFront","Director","总监"
 "BizCardInnerBack","WE NEED ENGINEERS","诚聘工程师"
 "BizCardInnerBack","WILL BEAT .GOV PAY","薪水超过公务员"
-"BizCardInnerBack","CONTACT NOW","现在就打电话申请吧"
+"BizCardInnerBack","CONTACT NOW","现在就拨打电话申请吧"
 "BrothelHelpInner","A man named <span>Dari Ludum</span> promised me and my sister good work in Arstotzka.","一个名叫 <span>Dari Ludum</span> 的人承诺在阿斯托茨卡给我和我姐姐一份好工作。"
-"BrothelHelpInner","I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.","不并不相信他。我怕他会扣了我的护照并强迫我在妓院工作。他今天也排在队伍里。"
+"BrothelHelpInner","I do not trust him. I am afraid he will take my passport and force me to work at brothel. He is in line today.","但我并不信任他。我怕他会扣下我的护照并强迫我去妓院卖身。他今天也排在队伍里。"
 "BrothelHelpInner","Please do something.","请想办法帮帮我们。"
-"BulletinInnerDiploTut","Diplomat","外交官"
+"BulletinInnerDiploTut","Diplomat","外交人员"
 "BulletinInnerDiploTut","Verification Procedure","核实流程"
 "BulletinInnerDiploTut","Verify issuing country","核实签发国"
 "BulletinInnerDiploTut","Verify identity","核实身份"
@@ -41,8 +41,8 @@
 "BulletinInnerContraTut","Correlate discovered weapons and contraband with rulebook entry.","将发现的武器和违禁品与规则手册中的相应条目相关联。"
 "BulletinInnerCorrelateTut","Highlight two pieces of discrepant information from INSPECT mode to enable interrogation.","在审查模式下选取两条不一致的信息来激活审讯选项。"
 "BulletinInnerPassportTut","Pay attention to passport nationality.","注意护照上的国籍"
-"BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","阿斯托茨卡<br>出入境管理局"
-"BulletinInnerBoothTut","Inspector's Booth","监察官的工作间"
+"BulletinInnerBoothTut","Arstotzkan<br>Ministry of Admission","阿斯托茨卡<br>入境管理局"
+"BulletinInnerBoothTut","Inspector's Booth","边检官的工作间"
 "BulletinInnerBoothTut","Shutter","百叶窗"
 "BulletinInnerBoothTut","Counter","柜台"
 "BulletinInnerBoothTut","Rule Book<br>Audio Transcript<br>Bulletin Storage<br>Time &amp; Date","规则手册<br>录音<br>公告架<br>时间 &amp; 日期"
@@ -50,21 +50,21 @@
 "BulletinInnerGunTut","WHEN ALARM SOUNDS","当警报响起时"
 "BulletinInnerGunTut","Drop key on tumbler to unlock weapon.","用钥匙开锁来取出武器"
 "BulletinInnerGunTut","Select gun, aim and fire.","选择武器，瞄准并射击。"
-"BulletinInnerGunTut","Time is short. Act fast.","留给你的时间不多。行动要快。"
+"BulletinInnerGunTut","Time is short. Act fast.","留给你的时间不多，行动要迅速。"
 "BulletinInnerFilerTut","Passport Confiscation","没收护照"
-"BulletinInnerFilerTut","Verify ALTAN resident on id.","核实阿尔坦居民的身份证"
+"BulletinInnerFilerTut","Verify ALTAN resident on id.","核实阿尔坦地区居民的身份证"
 "BulletinInnerFilerTut","Drop passport in confiscation drawer.","将护照放入没收专用的抽屉"
-"BulletinInnerFilerTut","If arresting, confiscate before detaining.","如需逮捕持有人，需在扣押前没收护照"
+"BulletinInnerFilerTut","If arresting, confiscate before detaining.","如需逮捕持有人，需在逮捕前没收护照"
 "BulletinInnerCriminals","Ministry of Justice","司法部"
 "BulletinInnerCriminals","WANTED CRIMINALS","通缉令"
 "BulletinInnerNews","NEWS","新闻"
-"BulletinPagesNote","CHECK ALL<br>PAGES","阅读<br>每一页"
-"CitationInner","M.O.A. CITATION","出入境管理局传讯"
+"BulletinPagesNote","CHECK ALL<br>PAGES","阅读<br>下一页"
+"CitationInner","M.O.A. CITATION","入管局传讯"
 "DiplomaticAuthInner","Diplomatic<br>Authorization","外交<br>授权书"
-"DiplomaticAuthInner","This document authorizes named agent as a diplomatic entity of a Council of Nations member state.","此份文件授予持有其的代理人作为各成员国联邦议会的外交特使的权力。"
+"DiplomaticAuthInner","This document authorizes named agent as a diplomatic entity of a Council of Nations member state.","此文件授予持有的代理人作为各成员国联邦议会的外交特使的权力。"
 "DiplomaticAuthInner","AGENT","代理人"
 "DiplomaticAuthInner","PASSPORT","护照号"
-"DiplomaticAuthInner","Unconditional access to all named Council of Nations member states must be granted upon presentation.","当代理人出示此授权书时，应无条件给予其自由出入以下指定的成员国的权力。"
+"DiplomaticAuthInner","Unconditional access to all named Council of Nations member states must be granted upon presentation.","当代理人出示此授权书时，以下指定的成员国应无条件给予其自由出入该国的权力。"
 "DiplomaticAuthInner","This document has no expiry.","此授权书永不失效"
 "DiplomaticAuthInner","COUNCIL OF NATIONS - SEVEN MEMBER FORUM","七国联邦议会 - 七成员国法庭"
 "EntryPermitInner","ARSTOTZKA","阿斯托茨卡"
@@ -72,26 +72,26 @@
 "EntryPermitInner","Conditional entry to the sovereign nation of Arstotzka is hereby granted to","此文件授予以下持有人有限制入境阿斯托茨卡的许可"
 "EntryPermitInner","bearing passport number","所持护照号码"
 "EntryPermitInner","Purpose","入境目的"
-"EntryPermitInner","Duration","入境期限"
-"EntryPermitInner","Enter by","入境日"
-"EntryPermitInner","Ministry of Admission","出入境管理局"
+"EntryPermitInner","Duration","滞留期限"
+"EntryPermitInner","Enter by","最晚入境日"
+"EntryPermitInner","Ministry of Admission","入境管理局"
 "EntryTicketInner","Arstotzka","阿斯托茨卡"
-"EntryTicketInner","ENTRY TICKET","入境凭证"
+"EntryTicketInner","ENTRY TICKET","入境券"
 "EntryTicketInner","VALID ON","有效日"
 "EzicNoteInnerOpen","READ QUICKLY","快速看完"
 "EzicNoteInnerOpen","RETURN TO MESSENGER","还给信使"
 "FamilyPhotoInner","HANG ON WALL","挂在墙上"
-"FingerprintsInner","GIVE THIS PAPER TO APPLICANT","将这张纸给申请人"
-"ForgeryFlyerInnerFront","NEED FORGED<br>OBRISTAN DOCS?","需要伪造的<br>奥布里斯坦文件？"
+"FingerprintsInner","GIVE THIS PAPER TO APPLICANT","把这张纸给申请人"
+"ForgeryFlyerInnerFront","NEED FORGED<br>OBRISTAN DOCS?","需要伪造入境<br>奥布里斯坦的文件？"
 "ForgeryFlyerInnerFront","""It looks so real!""","“简直以假乱真！”"
 "ForgeryFlyerInnerFront","""Approved for entry!""","“入境没问题！”"
 "ForgeryFlyerInnerFront","Fair rates!","价格公道！"
-"ForgeryFlyerInnerFront","No questions asked!","不被问询！"
+"ForgeryFlyerInnerFront","No questions asked!","不被质疑！"
 "ForgeryFlyerInnerFront","Fast turnaround!","快速做好！"
 "ForgeryFlyerInnerFront","CONDITIONS ON BACK","条款见背面"
 "ForgeryFlyerInnerBack","PRICING (EACH)","价格（每份）"
 "ForgeryFlyerInnerBack","Passport *","护照 *"
-"ForgeryFlyerInnerBack","Entry Ticket","入境凭证 *"
+"ForgeryFlyerInnerBack","Entry Ticket","入境券 *"
 "ForgeryFlyerInnerBack","*<br>","*<br>"
 "ForgeryFlyerInnerBack","Client must provide existing Obristan passport to be modified with new info","客户须提供现有的奥布里斯坦护照用于修改新信息"
 "ForgeryFlyerInnerBack","Service at border Arstotzka/Obristan","在阿斯托茨卡及奥布里斯坦边境提供服务"
@@ -103,18 +103,18 @@
 "HintMissingInner","THIS ENTRANT HAS NO DOCUMENTS","此入境者未提供文件"
 "HintMissingInner","To proceed, use INSPECT mode to interrogate.","如要继续, 使用 审查 模式来审问。"
 "HintMissingInner","Review page 2 of today's bulletin for full instructions.","查看今天公告的第二页以获取完整的说明。"
-"IdCardInner","ARSTOTZKA IDENTITY CARD","阿斯托茨卡身份证"
+"IdCardInner","ARSTOTZKA IDENTITY CARD","阿斯托茨卡 身份证"
 "IdCardInner","DOB","生日"
 "IdCardInner","HT.","身高"
 "IdCardInner","WT.","体重"
-"IdentityRecordInner","M.O.A. IDENTITY RECORD","出入境管理局身份记录"
+"IdentityRecordInner","M.O.A. IDENTITY RECORD","入管局身份记录"
 "IdentityRecordInner","NAME:","姓名："
 "IdentityRecordInner","ALIAS:","别名："
-"IdentityRecordInner","Applicant's fingerprints and claimed name/alias must match this record.","申请人的指纹以及名字/曾用名必须与此记录吻合。"
+"IdentityRecordInner","Applicant's fingerprints and claimed name/alias must match this record.","申请人的指纹及名字/曾用名必须与此记录吻合。"
 "IdSupplementInner","IDENTITY<br>SUPPLEMENT","身份<br>补充证明"
 "IdSupplementInner","HT","身高"
 "IdSupplementInner","WT","体重"
-"IdSupplementInner","DESCRIPTION","特征描述"
+"IdSupplementInner","DESCRIPTION","外貌描述"
 "IdSupplementInner","THUMB","拇指指纹"
 "IdSupplementInner","Keep on person","请随身携带"
 "IdSupplementInner","EXP.","失效日"
@@ -139,7 +139,7 @@
 "PassportInnerArstotzka","ENTRY VISA","入境签证"
 "PassportInnerArstotzka","DOB.","生日"
 "PassportInnerArstotzka","SEX","性别"
-"PassportInnerArstotzka","ISS.","签发国"
+"PassportInnerArstotzka","ISS.","签发地"
 "PassportInnerArstotzka","EXP.","失效日"
 "PassportInnerArstotzka","ARSTOTZKA","阿斯托茨卡"
 "PassportInnerImpor","ENTRY VISA","入境签证"
@@ -151,7 +151,7 @@
 "PassportInnerKolechia","ENTRY VISA","入境签证"
 "PassportInnerKolechia","DOB.","生日"
 "PassportInnerKolechia","SEX","性别"
-"PassportInnerKolechia","ISS.","签发日"
+"PassportInnerKolechia","ISS.","签发地"
 "PassportInnerKolechia","EXP.","失效日"
 "PassportInnerKolechia","KOLECHIA","科勒齐亚"
 "PassportInnerObristan","ENTRY VISA","入境签证"
@@ -172,11 +172,11 @@
 "PassportInnerUnitedFed","ISS.","签发地"
 "PassportInnerUnitedFed","EXP.","失效日"
 "PassportInnerUnitedFed","UNITED FEDERATION","共和联邦"
-"PlaqueOneInner","Ministry of Admission","出入境管理局"
+"PlaqueOneInner","Ministry of Admission","入境管理局"
 "PlaqueOneInner","RECOGNITION","奖状"
 "PlaqueOneInner","FOR","由于下述的贡献"
 "PlaqueOneInner","HANG ON WALL","挂在墙上"
-"PlaqueTwoInner","Ministry of Admission","出入境管理局"
+"PlaqueTwoInner","Ministry of Admission","入境管理局"
 "PlaqueTwoInner","RECOGNITION","奖状"
 "PlaqueTwoInner","FOR","由于下述的贡献"
 "PlaqueTwoInner","HANG ON WALL","挂在墙上"
@@ -195,31 +195,31 @@
 "PressPassInner","PRESS","新闻记者"
 "PressPassInner","IDENTIFICATION","证"
 "RuleDiploAccess","AUTHORIZATION MUST GRANT ACCESS<br> TO ARSTOTZKA","授权文件须授予持有人<br>入境阿斯托茨卡的许可"
-"RuleIssuingCity","PASSPORT <span>ISS.</span> FIELD MUST BE VALID","护照 <span>签发地</span>必须有效"
+"RuleIssuingCity","PASSPORT <span>ISS.</span> FIELD MUST BE VALID","护照<span>签发地</span>必须有效"
 "RuleSealRequired","DOCUMENT MUST<br>HAVE A SEAL","文件必须<br>盖章"
-"RulesInnerHome","Arstotzkan","Arstotzkan"
-"RulesInnerHome","Ministry<span>of</span>Admission","出入境<br>管理局"
+"RulesInnerHome","Arstotzkan","阿斯托茨卡"
+"RulesInnerHome","Ministry<span>of</span>Admission","入境<br>管理局"
 "RulesInnerHome","RULES","规则"
 "RulesInnerHome","&amp;","及"
 "RulesInnerHome","REGULATIONS","章程"
-"RulesInnerHome","for Inspectors","为监察员所准备"
+"RulesInnerHome","for Inspectors","边检官专用"
 "RulesInnerHome","CONTENTS","目录"
 "RulesInnerHome","PROPERTY OF","所有权属于"
-"RulesInnerHome","M.O.A","出入境管理局"
+"RulesInnerHome","M.O.A","入管局"
 "RulesInnerBasic","RULES","规则"
 "RulesInnerRegion","DIPLOMATIC SEALS","外交印章"
 "RulesInnerRegion","PASSPORT","护照"
-"RulesInnerRegion","ISSUING CITIES","签发城市"
+"RulesInnerRegion","ISSUING CITIES","签发地"
 "RulesInnerRegionArstotzka","DISTRICTS","地区"
 "RulesInnerRegionArstotzka","PASSPORT","护照"
-"RulesInnerRegionArstotzka","ISSUING CITIES","签发城市"
-"RulesInnerBooth","INSPECTOR'S BOOTH","监察官的工作间"
+"RulesInnerRegionArstotzka","ISSUING CITIES","签发地"
+"RulesInnerBooth","INSPECTOR'S BOOTH","边检官的工作间"
 "RulesInnerBooth","Shutter","百叶窗"
 "RulesInnerBooth","Counter","柜台"
 "RulesInnerBooth","Rule Book<br>Audio Trans.<br>Bulletin<br>Time &amp; Date","规则手册<br>录音<br>公告<br>时间 &amp; 日期"
 "RulesInnerBooth","UPGRADES","升级"
 "RulesInnerBooth","NO UPGRADES<br>INSTALLED","并未安装<br>任何升级"
-"RulesInnerDocs","OFFICIALLY RECOGNIZED","官方认证的"
+"RulesInnerDocs","OFFICIALLY RECOGNIZED","官方认可"
 "RulesInnerDocs","DOCUMENTS","文件"
 "RulesInnerDocs","CONTENTS","目录"
 "RulesInnerEntryPermit","ENTRY PERMIT","入境许可证"
@@ -229,9 +229,9 @@
 "RulesInnerIdCard","DISTRICTS","地区"
 "RulesInnerIdSupplement","IDENTITY<br>SUPPLEMENT","身份<br>补充证明"
 "RulesInnerIdSupplement","ISSUED TO ALL QUALIFIED FOREIGNERS","签发给所有合格的外国公民"
-"RulesInnerIdSupplement","FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE","用于核实外国公民的体貌特征"
+"RulesInnerIdSupplement","FOR VERIFICATION OF FOREIGNER'S PHYSICAL APPEARANCE","用于核实外国公民的外貌特征"
 "RulesInnerIdSupplement","VERIFY THUMBPRINT ONLY WHEN FINGERPRINT RECORD IS AVAILABLE","仅当有指纹记录时核实拇指指纹"
-"RulesInnerIdSupplement","THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY","此文件有效期很短 - 请仔细核实失效日"
+"RulesInnerIdSupplement","THIS IS A SHORT-ISSUE DOCUMENT - VERIFY EXPIRATION CAREFULLY","此文件有效期很短 - 请仔细核实失效日期"
 "RulesInnerAccessPermit","ACCESS PERMIT","进境许可证"
 "RulesInnerAccessPermit","VALID SEALS","有效印章"
 "RulesInnerAccessPermit","THIS DOCUMENT REPLACES ENTRY PERMIT AND IDENTITY SUPPLEMENT","此份文件取代了入境许可证和身份补充证明"
@@ -255,16 +255,16 @@
 "RulesInnerConfiscation","DROP PASSPORT IN CONFISCATION DRAWER","将护照放入没收专用抽屉"
 "RulesInnerConfiscation","POLICY","政策"
 "RulesInnerConfiscation","PASSPORT MUST BE CONFISCATED BEFORE DETAINING","必须在扣押之前没收护照"
-"RulesInnerConfiscation","MOI","信息部"
+"RulesInnerConfiscation","MOI","情报局"
 "RulesInnerLast","PROPERTY OF","所有权属于"
-"RulesInnerLast","M.O.A.","出入境管理局"
+"RulesInnerLast","M.O.A.","入管局"
 "RulesInnerLast","GLORY TO ARSTOTZKA","阿斯托茨卡万岁"
 "RulesInnerLast","Arstotzkan","阿斯托茨卡"
-"RulesInnerLast","Ministry of Admission","出入境管理局"
+"RulesInnerLast","Ministry of Admission","入境管理局"
 "RulesInnerLast","Rules &amp; Regulations","规则及章程"
-"RulesInnerLast","for Inspectors","为监察员所准备"
+"RulesInnerLast","for Inspectors","边检官专用"
 "RulesInnerLast","1982-1983 Edition","1982-1983版"
-"RulesInnerLast","DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY","严禁随意传播<br>违者必究"
+"RulesInnerLast","DO NOT DISTRIBUTE UNDER SEVERE<br>PENALTY","严禁外传<br>违者必究"
 "RulesTabConfL","CONF.","设置"
 "RulesTabConfR","CONF.","设置"
 "RulesTabDocsL","DOCS","文件"
@@ -280,19 +280,19 @@
 "RulesUpgrade2","RULEBOOK SHORTCUTS","规则手册快捷方式"
 "RulesUpgrade3","QUICK INSPECT","快速审查"
 "RulesUpgrade3","DOUBLE-CLICK","双击鼠标左键"
-"SeizureSlipInner","Arstotzka Ministry of Admission","阿斯托茨卡出入境管理局"
+"SeizureSlipInner","Arstotzka Ministry of Admission","阿斯托茨卡 入境管理局"
 "SeizureSlipInner","PASSPORT SEIZURE SLIP","护照扣押单"
 "SeizureSlipInner","ENTRY VISA","入境签证"
 "SeizureSlipInner","Your passport has been seized.","你的护照已被扣押。"
-"SeizureSlipInner","Contact 1509-6103 for redress.","如需更正，请联系1509-6103"
+"SeizureSlipInner","Contact 1509-6103 for redress.","如需取回，请联系1509-6103"
 "SpyDocsInnerBack","Mating Habits of Lesser Kolechian Waterfowl","科勒齐亚小水禽交配习性"
 "SpyDocsInnerBack","A FULL REPORT","完整报告"
 "SpyDocsInnerBack","Ministry of Information","情报局"
 "TranscriptInner","AUDIO TRANSCRIPT","录音"
 "VaccineCertInner","Certificate<span>of</span>Vaccination","疫苗接种<span> </span>证明"
-"VaccineCertInner","ID#","ID#"
+"VaccineCertInner","ID#","身份证号"
 "VaccineCertInner","DATE","日期"
-"VaccineCertInner","VACCINE","疫苗"
+"VaccineCertInner","VACCINE","疫苗类型"
 "VaccineCertInner","Vax valid for 3 years","疫苗接种后3年内有效"
 "VisaSlipInner","TEMPORARY VISA SLIP","临时签证单"
 "VisaSlipInner","ENTRY VISA","入境签证"
@@ -303,18 +303,18 @@
 "WorkPermitInner","HOLDER","持有人"
 "WorkPermitInner","FIELD","领域"
 "WorkPermitInner","UNTIL","有效期至"
-"WorkPermitInner","Keep this pass with you at all times.","任何时候都请随身携带此许可。"
+"WorkPermitInner","Keep this pass with you at all times.","请时刻随身携带此许可。"
 "EndNews","Kolechian Consensus Reached Over Grestin","与科勒齐亚就葛瑞斯汀边境问题达成一致"
 "ApartmentClass","CLASS","等级"
 "DetainButton","DETAIN","扣押"
 "FingerprintButton","FINGERPRINT","指纹"
 "SearchButton","SEARCH","搜查"
-"EmblemsMOA","M.O.A","出入境管理局"
+"EmblemsMOA","M.O.A","入管局"
 "EmblemsMOA","M.O.L","劳动局"
 "EmblemsMOL","M.O.L","劳动局"
 "Filer","CONFISCATED DOCUMENTS","没收的文件"
 "Filer","PROPERTY OF","所有权属于"
-"Filer","M.O.A.","出入境管理局"
+"Filer","M.O.A.","入管局"
 "GiveIcon","GIVE","给"
 "LoadButtonNew","NEW","新的"
 "LoadDay","DAY","天"
@@ -324,7 +324,7 @@
 "ReasonButton","REASON","理由"
 "RifleKill","KILL","致死"
 "RifleTranq","TRANQ","麻醉"
-"StampBarMid","ALIGN VISA BENEATH STAMP","将签证页置于签证戳下方"
+"StampBarMid","ALIGN VISA BENEATH STAMP","将签证页置于签证戳正下方"
 "Upgrades","SPACE","空格键"
 "Upgrades","TAB","TAB键"
 "image:ArskickersInner.png","capture/ArskickersInner.png","capture/ArskickersInner.png"
@@ -356,7 +356,7 @@
 "news:RANDOM_ENTERTAINMENT","Entertainment","娱乐"
 "news:RANDOM_POLITICS","Politics","政治"
 "news:FIRST_DAY","Grestin Border Checkpoint Opens At Last!","葛瑞斯汀边检站终于设立了！"
-"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","在6年的等待后，出入境管理局是否能够保障我们的安全？"
+"news:FIRST_DAY","After 6 Long Years. Can the Ministry of Admission Keep Us Safe?","在6年的等待后，入境管理局是否能够保障我们的安全？"
 "news:FIRST_DAY","Families To Reunite","家人终于能团聚了"
 "news:CHECKPOINT_SUCCESS","Grestin Checkpoint a Success!","设立葛瑞斯汀边检站非常成功！"
 "news:CHECKPOINT_SUCCESS","Entry Restrictions To Relax, Admit Foreigners","入境限制将会放松，将准许外国人入境"
@@ -365,12 +365,12 @@
 "news:FIRST_TERRORISTS","Terrorists Strike At Grestin!","恐怖分子袭击了葛瑞斯汀！"
 "news:FIRST_TERRORISTS","Kolechian Agitators Suspected.","疑似为科勒齐亚煽动者指使。"
 "news:FIRST_TERRORISTS","Checkpoint Lockdown","边检站暂时关闭"
-"news:FIRST_TERRORISTS","More Guards - More Scrutiny","更多卫兵 - 更严格的监视"
+"news:FIRST_TERRORISTS","More Guards - More Scrutiny","更多卫兵 - 更严格的盘查"
 "news:BLACKMARKET_EXPLODES","Blackmarket Activity Explodes","黑市活动激增"
 "news:BLACKMARKET_EXPLODES","Government Blames Lax Immigration Controls","政府指责入境控制不严"
 "news:BLACKMARKET_EXPLODES","Checkpoint Expansion Postponed","边检站扩建计划被搁置"
 "news:WORKPERMIT_FIRST","Jobs Few, Becoming Fewer","工作机会少了，并会持续减少"
-"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","移民正抢走本地人的饭碗"
+"news:WORKPERMIT_FIRST","Immigrants Taking Jobs From Locals","外国移民正抢走本地人的饭碗"
 "news:KOLECHIA_COMPLAINS_SEARCH","Kolechian Leader Files Complaint","科勒齐亚领导人表示不满"
 "news:KOLECHIA_COMPLAINS_SEARCH","Claims Unprovoked Border Searches Violate Rights","指责毫无道理的入境搜查破坏了个人权益"
 "news:AFTER_SUICIDE_BOMBER","Another Attack At Grestin Checkpoint!","恐怖分子再次袭击葛瑞斯汀边检站！"
@@ -378,9 +378,9 @@
 "news:GENERIC_BOMBER","Grestin Suffers Another Border Attack","葛瑞斯汀边境再次遭袭"
 "news:GENERIC_BOMBER","Suicide Bombings Becoming Routine","自杀式爆炸袭击已习以为常"
 "news:PIMP_BUSTED","Human Trafficking Ring Shut Down!","切断人口贩卖产业链！"
-"news:PIMP_BUSTED","Grestin Checkpoint Officer Nabs Mastermind","葛瑞斯汀边检站监察官抓获蛇头"
-"news:PIMP_ESCAPED","Dancers At Grestin Club Found Dead!","葛瑞斯汀夜店舞女被发现死亡！"
-"news:PIMP_ESCAPED","Newly Immigrated Girls Victims Of Human Trafficking","新近移民入境的女孩成了人口贩卖的受害者"
+"news:PIMP_BUSTED","Grestin Checkpoint Officer Nabs Mastermind","葛瑞斯汀边检站边检官抓获蛇头"
+"news:PIMP_ESCAPED","Dancers At Grestin Club Found Dead!","葛瑞斯汀夜店舞女的尸体被发现！"
+"news:PIMP_ESCAPED","Newly Immigrated Girls Victims Of Human Trafficking","新近移民入境的女孩成了贩卖人口的受害者"
 "news:KILLERATHLETE","Republian Track Star Wanted For Murder!","里帕布里亚的田径明星因谋杀而被通缉！"
 "news:KILLERATHLETE","Vince Lestrade's Whereabouts Unknown - Has Likely Fled Republia","文斯▪莱斯特雷德行踪成迷 - 很可能已逃离里帕布里亚"
 "news:KILLERATHLETE","Vince Lestrade: Profile","文斯▪莱斯特雷德：简介"
@@ -397,8 +397,8 @@
 "news:BUSTED_SPY_GAVEREALDOCS","Heroic Agents Compromised","王牌探员亦受波及"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Kolechia Cleans House - Attacks Its Own!","科勒齐亚大清洗 - 目标转向自己！"
 "news:BUSTED_SPY_GAVEFAKEDOCS","Round Of Disappearances Blamed On Faulty Evidence","官员成批失踪却被指因假证据"
-"news:FORGERY_NEWS","Theft At Ministry Of Admission!","出入境管理局有贼！"
-"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","影响不大 - 仅少量物品被偷"
+"news:FORGERY_NEWS","Theft At Ministry Of Admission!","入境管理局有贼！"
+"news:FORGERY_NEWS","Limited Effects - Few Items Stolen","影响有限 - 仅少量物品被偷"
 "news:SECRET_SOCIETY","The History of Arstotzka","阿斯托茨卡的历史"
 "news:SECRET_SOCIETY","In Pictures and Words - Mostly Words","图文并茂 - 但大部分都是文字"
 "news:CRIMINAL_ACTIVITY","A Criminal's Safe Haven","犯罪分子的安全港"
@@ -407,40 +407,40 @@
 "news:LOSING_GUARDS","Qualified Guards, Soldiers In Demand","大量需求合格的警卫、士兵"
 "news:LOSING_GUARDS","Consolidation, Reassignment At Border","边境地区的整合与重组"
 "news:LOSING_GUARDS","Still Safe With Smaller Detail?","更少的卫兵如何保证边境安全？"
-"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","葛瑞斯汀的事件凸显了安全危机"
-"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","预计会出现更多的违规事件"
+"news:RUNNER_AFTER_TRANQ","Grestin Incident Highlights Security Risks","葛瑞斯汀事件凸显了安全危机"
+"news:RUNNER_AFTER_TRANQ","Further Breaches Predicted","预计会出现更多的突破边境的行为"
 "news:BIKE_ATTACK","Daring Bike Attack At Grestin Checkpoint!","葛瑞斯汀边检站遭遇疯狂的自行车袭击"
 "news:BIKE_ATTACK","Extremists Growing Bolder - Grestin Like Magnet","极端分子愈发大胆 - 葛瑞斯汀如磁石般吸引着他们"
 "news:BORDER_TARGETED","Can The Wall Hold?","边境还能撑多久？"
 "news:BORDER_TARGETED","Border Safety Continually Questioned","边境安全问题持续被质疑"
 "news:BIKERUNNER_NEWS","Coordinated Border Breach!","有组织的边境破坏行为！"
-"news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","不知名的袭击者压制了警卫"
+"news:BIKERUNNER_NEWS","Unknown Assailants Swamp Security","不知名的袭击者使卫兵陷入苦战"
 "news:NOSY_JOURNALIST_APPROVED","Arstotzka's Frail Border","阿斯托茨卡脆弱的边境"
-"news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","共和联邦的记者曝光了松散的规定"
+"news:NOSY_JOURNALIST_APPROVED","United Fed Reporter Exposes Lax Protocols","共和联邦的记者曝光了松懈的边检"
 "news:NOSY_JOURNALIST_DENIED","Arstotzka's Iron Border","阿斯托茨卡的铁闸"
 "news:NOSY_JOURNALIST_DENIED","Int. Media Reveals Entry Visa Bias","国际记者曝光了入境签证的偏见"
 "news:IDSUPPLEMENT_INTRO","Another Bomber Slips Through!","又一个自杀式炸弹袭击者偷溜入境"
 "news:IDSUPPLEMENT_INTRO","Immigrant Screening Falls Short","入境检查出现问题"
-"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","出入境管理局迎来新部长"
+"news:IDSUPPLEMENT_INTRO","M.O.A. Gets New Director","入管局迎来新部长"
 "news:IDSUPPLEMENT_INTRO","Stricter Protocols Promised at Border","承诺在边境实施更严格的规定"
 "news:WHISTLEBLOWER_SETUP0","Antegria Domestic Spying Exposed!","安太格里亚监视公民的行为被曝光！"
 "news:WHISTLEBLOWER_SETUP0","Whistleblower On The Run","告密者在逃"
 "news:WHISTLEBLOWER_SETUP1","Antegrian Whistleblower Denied Asylum In Republia","安太格里亚告密者向里帕布里亚申请政治避难被拒绝"
 "news:WHISTLEBLOWER_SETUP2","Antegrian Whistleblower Turned Away From United Fed","共和联邦拒绝安太格里亚告密者入境"
 "news:WHISTLEBLOWER_COMING","Antegrian Whistleblower Accepted By Arstotzka","阿斯托茨卡接纳了安太格里亚告密者"
-"news:WHISTLEBLOWER_COMING","Move Risks Angering Neighbors","此行为将面临激怒邻邦的风险"
-"news:WHISTLEBLOWER_IN","Antegrian Whistleblower Arrives - Disappears Immediately","安太格里亚告密者已入境 - 但马上就消失了"
+"news:WHISTLEBLOWER_COMING","Move Risks Angering Neighbors","此行为将面临激怒邻邦的危险"
+"news:WHISTLEBLOWER_IN","Antegrian Whistleblower Arrives - Disappears Immediately","安太格里亚告密者已入境 - 但立刻失踪"
 "news:WHISTLEBLOWER_OUT","Antegrian Whistleblower Turned Away - Whereabouts Unknown","安太格里亚告密者被拒签 - 行踪成迷"
-"news:IMPOR_UNHAPPY","Impor Protests Unbalanced Trade Restrictions","印波抗议不平衡的贸易限制"
+"news:IMPOR_UNHAPPY","Impor Protests Unbalanced Trade Restrictions","印波抗议不平等的贸易限制"
 "news:IMPOR_UNHAPPY","Claims Arstotzka Unfairly Taxes Imporian Goods","声称阿斯托茨卡针对印波商品征收不公平的贸易税"
 "news:IMPOR_SANCTIONS_START","Impor Begins Trade Sanctions!","印波开始贸易制裁！"
 "news:IMPOR_SANCTIONS_START","Immediately Restricts All Imports From Arstotzka","即刻起限制任何从阿斯托茨卡的进口产品"
 "news:IMPOR_SANCTIONS_END","Impor Sanctions End!","印波结束贸易制裁！"
 "news:IMPOR_SANCTIONS_END","Over So Fast? What Happened?","这么快就结束了？到底发生了什么？"
-"news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","有重大突破的脊柱外科手术进一步完善"
+"news:SURGERY_SETUP","Breakthrough Spinal Surgery Perfected","突破性的脊柱外科手术进一步完善"
 "news:SURGERY_SETUP","Only Possible With Arstotzkan Expertise","但仅有阿斯托茨卡的专家才可能完成"
 "news:VIRUS_PRIMER","Polio Resurfaces In United Fed","脊髓灰质炎在共和联邦又出现了"
-"news:VIRUS_PRIMER","Isolated Diagnosis Or Something More?","隔离诊断还是有更好的方法？"
+"news:VIRUS_PRIMER","Isolated Diagnosis Or Something More?","隔离诊断抑或是有更好的方法？"
 "news:VIRUS_BAN_UNITED_FED","Full-blown Epidemic Threatens United Fed!","全面爆发的传染病威胁共和联邦！"
 "news:VIRUS_BAN_UNITED_FED","Previously Under Control, Polio Back With Vengeance","本已被控制的脊髓灰质炎又重新出现"
 "news:VIRUS_REQUIRE_CERT","Ministry of Health Acts To Protect Citizens","卫生部加紧行动以保护公民"
@@ -472,7 +472,7 @@
 "text:language_author","Author","Eric Shen"
 "text:wrap_hyphen","-","-"
 "text:created_by","created by Lucas Pope","Lucas Pope 制作"
-"text:papers_please","Papers, please.","Papers, please."
+"text:papers_please","Papers, please.","请出示文件"
 "text:protocol_violated","Protocol Violated.","违反规章"
 "text:unauth_confiscation","Unauthorized passport confiscation","未授权的护照没收行为"
 "text:missing_reason","Denial reason not given","未指明理由的拒签"
@@ -503,7 +503,7 @@
 "text:family_uncle_message","uncle","叔叔"
 "text:family_mil_message","mother-in-law","岳母"
 "text:night_endof","END OF","结束"
-"text:night_day","DAY $0","天 $0"
+"text:night_day","DAY $0","第$0天"
 "text:family_verysick_1","Your $0 will die without medicine.","没有足够的药品将导致你的$0死亡。"
 "text:family_verysick_many","Very sick family members will die without medicine.","严重患病的家庭成员会因为没有药而死亡。"
 "text:family_sick_1","Your $0 is sick and needs medicine.","你的$0因为患病需要药品。"
@@ -513,7 +513,7 @@
 "text:family_died_3","Your $0, $1, and $2 have died.","你的$0、$1和$2死了。"
 "text:family_died_4","Your $0, $1, $2, and $3 have died.","你的$0、$1、$2和$3死了。"
 "text:family_died_5","Your $0, $1, $2, $3, and $4 have died.","你的$0、$1、$2、$3和$4都死了。"
-"text:family_escape_with_0","You leave behind everything.","你抛弃了一切。"
+"text:family_escape_with_0","You leave behind everything.","你抛弃了一切逃亡了。"
 "text:family_escape_with_1","You gather your $0 to leave for Obristan.","你带上你的$0逃往奥布里斯坦。"
 "text:family_escape_with_2","You gather your $0 and $1 to leave for Obristan.","你带上你的$0和$1逃往奥布里斯坦。"
 "text:family_escape_with_3","You gather your $0, $1, and $2 to leave for Obristan.","你带上你的$0、$1和$2逃往奥布里斯坦。"
@@ -557,7 +557,7 @@
 "text:menu_sound","Sound","音效音量"
 "text:menu_dateformat","Date Format","日期格式"
 "text:menu_language","Language","语言"
-"text:menu_easytip","+ 20 credits per day","+ 20 分每天"
+"text:menu_easytip","+ 20 credits per day","每天 + 20 分"
 "text:menu_stats","STATS","状态"
 "text:menu_next","NEXT","下一个"
 "text:menu_walktowork","WALK TO WORK","步行去上班"
@@ -579,22 +579,22 @@ Ending $endnum of $endtotal","已经玩了$time
 扣押了$detained个人
 得到了$citations条传讯
 盖了$stamps个章
-看了$endnum分之$endtotal个结局"
+看了总共$endtotal个结局中的$endnum个"
 "text:steam_noinit","STEAM CONNECTION FAILED
 
 If this problem persists, re-install the Steam client.","STEAM连接失败
 
-如果持续发生这个问题，请重新安装Steam客户端。"
+如果此问题持续发生，请重新安装Steam客户端。"
 "text:steam_restartfailed","STEAM RESTART FAILED
 
 If this problem persists, re-install the Steam client.","STEAM重启失败
 
-如果持续发生这个问题，请重新安装Steam客户端。"
+如果此问题持续发生，请重新安装Steam客户端。"
 "text:steam_noconnect","STEAM CONNECTION FAILED
 
 The game will attempt to restart through the Steam client.","STEAM连接失败
 
-游戏尝试会通过Steam客户端重新启动。"
+游戏会尝试通过Steam客户端重新启动。"
 "text:steam_restart","RESTART","重新启动"
 "text:load_title","Select day to continue or start a new game","请选择从哪一天继续游戏或重新开始新的游戏"
 "text:load_confirm_delete_single","Delete this day $0 save?
@@ -662,8 +662,8 @@ $course
 
 $time
 $score 分"
-"text:endless_ranked","Ranked #$0","排名第 #$0 位"
-"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","完成故事模式并保有工作以开启无尽模式"
+"text:endless_ranked","Ranked #$0","排名第 $0 位"
+"text:endless_unlock","Complete story mode with your job intact to unlock endless mode","完成故事模式并仍然保有工作可开启无尽模式"
 "text:endless_wrongcode","S O R R Y","S O R R Y"
 "text:date_verbose","$month $day, $year","$month $day, $year"
 "text:month_1","January","一月"
@@ -718,7 +718,7 @@ Inspector,
 $content
 
 Glory to Arstotzka.","阿斯托茨卡
-出入境管理局
+入境管理局
 公告
 
 监察官，
@@ -735,7 +735,7 @@ NOTICE:
 $content
 
 Glory to Arstotzka.","阿斯托茨卡
-出入境管理局
+入境管理局
 公告
 
 注意：
@@ -752,7 +752,7 @@ $style
 $course
 
 Glory to Arstotzka.","阿斯托茨卡
-出入境管理局
+入境管理局
 公告
 
 $style
@@ -802,14 +802,14 @@ This post is bound by Ministry of Admission rules and regulations. Study the rul
 __________________________
 规则及章程
 
-此职位受出入境管理局的规则及章程的约束。请仔细阅读规则手册。"
+此职位受入境管理局的规则及章程的约束。请仔细阅读规则手册。"
 "bulletin:3A","Entry for non-citizens is now regulated. 
 
 All foreigners require a valid ENTRY TICKET.
 
 Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","非公民的入境者现需要受到限制。
 
-所有外国人都必须持有合法的入境凭证。
+所有外国人都必须持有合法的入境券。
 
 在盖章批准入境和退还文件给持有人之前须核实信息。 [PAGESNOTE]"
 "bulletin:4A","Stricter credential requirements have been instituted.
@@ -826,7 +826,7 @@ Continued...","现开始实施更严格的入境文件要求。
 
 外国人须获得并出示合法的入境许可证。
 
-仅出示入境凭证已不够。
+仅出示入境券已不够。
 
 未完待续……"
 "bulletin:4B","A new chapter detailing document features has been added to your rulebook.
@@ -889,7 +889,7 @@ Refer to the rulebook for updated document information.","______________________
 
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","情报局的一位秘密探员的身份泄露了。
 
-出入境管理局负责联络他，预计今天晚些时候他可能会来。"
+入境管理局负责联络他，预计今天晚些时候他可能会来。"
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
 Maintain your best behavior.","今天主管东葛瑞斯汀的部门领导会来视察。
@@ -899,7 +899,7 @@ Maintain your best behavior.","今天主管东葛瑞斯汀的部门领导会来�
 
 Nothing important was stolen but intelligence suggests counterfeiters have already begun forging official Arstotzkan documents.
 
-Continued...","出入境管理局办公室发生入室盗窃事件，可能致使我们的文件印章版泄露了。
+Continued...","入管局办公室发生入室盗窃事件，可能致使我们的文件印章版泄露了。
 
 虽无任何东西被盗但情报称已发现有伪造阿斯托茨卡公文的迹象。
 
@@ -997,7 +997,7 @@ Under request from the Ministry of Trade, the Ministry of Admission will react t
 
 Deny all travelers from Impor.","印波拒收来自阿斯托茨卡的所有进口物品。
 
-根据贸易局的要求，出入境管理局会针对这种行为采取措施。
+根据贸易局的要求，入境管理局会针对这种行为采取措施。
 
 拒签所有来自印波的游客。"
 "bulletin:20A","Impor has relented on their faulty policy.
@@ -1139,9 +1139,9 @@ Continued...","[NOTICE] 所有政府公务人员须接受全面情报审查。�
 
 Until a decision is made, maintain your duties as ordered.
 
-Continued...","出入境管理局正讨论关闭这个检查站的问题。
+Continued...","入境管理局正在讨论是否要关闭这个检查站。
 
-在决定做出之前，命令你照常工作。
+在决定做出之前，你需要奉命照常工作。
 
 未完待续……"
 "bulletin:31B","You are scheduled for an information audit tomorrow morning.
@@ -1188,7 +1188,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "facts","East Grestin","东葛瑞斯汀"
 "facts","Paradizna","帕拉迪兹纳"
 "facts","Passport","护照"
-"facts","Entry Ticket","入境凭证"
+"facts","Entry Ticket","入境券"
 "facts","Entry Permit","入境许可证"
 "facts","Work Pass","工作许可"
 "facts","Id Card","身份证"
@@ -1202,7 +1202,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "facts","Name","姓名"
 "facts","Id Number","身份证号"
 "facts","Expiration Date","到期日"
-"facts","Issuing City","签发城市"
+"facts","Issuing City","签发地"
 "facts","Birth Date","生日"
 "facts","Alias","别名"
 "facts","Height","身高"
@@ -1211,7 +1211,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "facts","Thumbprint","拇指指纹"
 "facts","Date","日期"
 "facts","Purpose","入境目的"
-"facts","Duration","入境期限"
+"facts","Duration","滞留期限"
 "facts","Face","面部"
 "facts","District","地区"
 "facts","Gender","性别"
@@ -1268,7 +1268,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "facts","Missing documents","文件缺失"
 "facts","Wanted criminal admitted","准许了犯罪分子入境"
 "facts","Incorrect purpose response","回答的入境目的不正确"
-"facts","Incorrect visit duration response","回答的入境期限不正确"
+"facts","Incorrect visit duration response","回答的滞留期限不正确"
 "facts","Passport: Non-matching photo","护照：照片不符"
 "facts","Forged Entry Permit","伪造的入境许可证"
 "facts","Forged Work Pass","伪造的工作许可"
@@ -1294,7 +1294,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "facts","Entrant Holds Conflicting Passports","入境者持有不相符的护照"
 "facts","Entrant must have a passport","入境者必须持有护照"
 "facts","Foreigners require an entry permit","外国人须持有入境许可证"
-"facts","Foreigners require an entry ticket","外国人须持有入境凭证"
+"facts","Foreigners require an entry ticket","外国人须持有入境券"
 "facts","All documents must be current","所有文件必须是最新的"
 "facts","Workers must have a work pass","劳工必须持有工作许可"
 "facts","Citizens must have an id card","公民必须持有身份证"
@@ -1341,7 +1341,7 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "paper:Rules","Vaccine Cert.","疫苗接种证明"
 "intro","Congratulations.","恭喜你。"
 "intro","The October labor lottery is complete. Your name was pulled.","十月份的劳工抽奖结束了，你幸运的被抽中。"
-"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","请尽快奔赴岗位，向位于葛瑞斯汀边检站的出入境管理局报到"
+"intro","For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint.","请尽快奔赴岗位，向位于葛瑞斯汀边检站的入境管理局报到"
 "intro","An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling.","政府将在东葛瑞斯汀为你和你的家人提供住所，住所等级为8级。"
 "intro","Glory to Arstotzka.","阿斯托茨卡万岁。"
 "end:in-debt","Arstotzka has zero tolerance for delinquency.","阿斯托茨卡对拖欠行为零容忍。"
@@ -1450,8 +1450,8 @@ Continue to confiscate all Arstotzkan passports from native entrants.","明早�
 "end:help-few-ezic","EZIC has been crushed. The balance of justice is restored.","EZIC组织已被捣毁。正义的平衡已经恢复。"
 "end:help-few-ezic","Glory to Arstotzka.","阿斯托茨卡万岁。"
 "end:escape","You board the late train to the Northern Territories. It is nearly empty.","你登上了开往北部地区的末班火车。车上几乎没什么人。"
-"end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","你花钱让人匆忙伪造了护照和重新入境凭证。它们看上去粗制滥造。"
-"end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","你花钱让人匆忙伪造了护照和重新入境凭证。它们看上去粗制滥造。"
+"end:escape","You pay for the hastily forged passport and re-entry ticket. They look terrible.","你花钱让人匆忙伪造了护照和重新入境券。它们看上去粗制滥造。"
+"end:escape","You pay for the hastily forged passports and re-entry tickets. They look terrible.","你花钱让人匆忙伪造了护照和重新入境券。它们看上去粗制滥造。"
 "end:escape","You reach the border crossing at dawn. The line is immense.","你在黎明时分到达了边境。但边检站前已排起了长龙。"
 "end:escape","Six hours later.","六个小时后。"
 "end:escape","Your documents.","你的文件。"
@@ -2899,7 +2899,7 @@ HOLD YOUR FIRE
 "speech:wrong-face","I had surgery.","我做过整容。"
 "speech:wrong-face","The years have been cruel.","岁月像把杀猪刀啊。"
 "speech:wrong-face","I do not know what to say. It is me.","我不知道该说什么，但这就是我。"
-"speech:ask-wrong-issuingcity","This issuing city is incorrect.","签发城市不对。"
+"speech:ask-wrong-issuingcity","This issuing city is incorrect.","护照签发地不对。"
 "speech:ask-wrong-issuingcity","Your passport has false information.","你的护照上有虚假信息。"
 "speech:ask-wrong-gender","You are a man?","你是个男人？"
 "speech:ask-wrong-gender","It says here that you are male.","文件上的信息说明你是男人。"
@@ -2941,9 +2941,9 @@ HOLD YOUR FIRE
 "speech:ask-wrong-entryticket-date","The date on this ticket is wrong.","这张凭证上的日期是错的。"
 "speech:wrong-entryticket-date","It is my mistake.","是我的错。"
 "speech:wrong-entryticket-date","Oh?","哦？"
-"speech:ask-missing-entryticket","You cannot enter without a ticket.","没有凭证无法入境。"
-"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","外国人入境须提供入境凭证。"
-"speech:ask-missing-entryticket","Where is your entry ticket?","你的入境凭证呢？"
+"speech:ask-missing-entryticket","You cannot enter without a ticket.","没有入境券无法入境。"
+"speech:ask-missing-entryticket","Foreigners must present an entry ticket.","外国人入境须提供入境券。"
+"speech:ask-missing-entryticket","Where is your entry ticket?","你的入境券呢？"
 "speech:missing-entryticket","I do not know what that is.","我不知道那是什么东西。"
 "speech:missing-entryticket","I have none.","我没有。"
 "speech:missing-entryticket","It was lost.","我弄丢了。"
