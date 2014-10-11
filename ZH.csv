@@ -721,7 +721,7 @@ Glory to Arstotzka.","阿斯托茨卡
 入境管理局
 公告
 
-监察官，
+边检官，
 
 $content
 
@@ -768,7 +768,7 @@ Entry is restricted to Arstotzkan citizens only.
 
 Deny all foreigners.","欢迎你到葛瑞斯汀边境检查站履新。
 
-你要做的就是在入境者的护照入境签证页盖章并将文件退还。
+你要做的就是在入境者的护照入境签证页盖章并将文件退还给入境者。
 
 仅允许阿斯托茨卡公民入境。
 
@@ -779,7 +779,7 @@ Your booth's INSPECTION hardware is now installed.
 
 Check all passport information carefully for discrepancies. Deny any entrant with inconsistent information.
 
-Continued...[PAGESNOTE]","从今天开始，拥有合法护照的外国人将被准许入境。
+Continued...[PAGESNOTE]","从今天起，拥有合法护照的外国人将被准许入境。
 
 你的工作间已安装了用于审查的装置。
 
@@ -807,7 +807,7 @@ __________________________
 
 All foreigners require a valid ENTRY TICKET.
 
-Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","非公民的入境者现需要受到限制。
+Verify information before stamping passport ENTRY VISA and returning all documents to entrant. [PAGESNOTE]","现在要限制非本国公民的入境者。
 
 所有外国人都必须持有合法的入境券。
 
@@ -822,9 +822,9 @@ Entry tickets are no longer sufficient.
 
 Continued...","现开始实施更严格的入境文件要求。
 
-阿斯托茨卡公民须出示身份证。
+阿斯托茨卡公民必须出示身份证。
 
-外国人须获得并出示合法的入境许可证。
+外国人必须获得并出示合法的入境许可证。
 
 仅出示入境券已不够。
 
@@ -849,9 +849,9 @@ Interrogate discrepancies to enable detention option.","你现在已被授权直
 审讯并找出不一致的地方可激活扣押选项"
 "bulletin:6A","The Ministry of Labor has instituted a special program to control immigrant labor.
 
-Travelers entering for work require a valid WORK PASS.","劳动部制定了一条特殊的计划以控制入境劳工。
+Travelers entering for work require a valid WORK PASS.","劳动部制定了一项特殊的计划以控制入境劳工。
 
-以入境工作为目的的游客须持有合法的工作许可。"
+以入境工作为目的的入境者须持有合法的工作许可。"
 "bulletin:7A","To facilitate more thorough inspections, a SEARCH scanner system has been installed in your booth.
 
 Kolechian extremists are suspected in yesterday's bombing. 
@@ -889,7 +889,7 @@ Refer to the rulebook for updated document information.","______________________
 
 The Ministry of Admission has offered its services as liaison. Expect a possible drop later today.","情报局的一位秘密探员的身份泄露了。
 
-入境管理局负责联络他，预计今天晚些时候他可能会来。"
+入境管理局将负责联络他，预计今天晚些时候他可能会来。"
 "bulletin:10A","The divisional authority of East Grestin operations will visit today.
 
 Maintain your best behavior.","今天主管东葛瑞斯汀的部门领导会来视察。
@@ -901,9 +901,9 @@ Nothing important was stolen but intelligence suggests counterfeiters have alrea
 
 Continued...","入管局办公室发生入室盗窃事件，可能致使我们的文件印章版泄露了。
 
-虽无任何东西被盗但情报称已发现有伪造阿斯托茨卡公文的迹象。
+虽然没有任何东西被盗，但情报称已发现有伪造阿斯托茨卡公文的迹象。
 
-喂完待续……"
+未完待续……"
 "bulletin:11B","__________________________
 FORGERIES
 
@@ -969,7 +969,7 @@ All denials must be accompanied by a REASON FOR DENIAL stamp.
 
 A new computer inking system has been installed. Interrogate discrepancies to prime the REASON FOR DENIAL stamp.
 
-Continued...","国际新闻上对我们不利的报道影响了移民规则。
+Continued...","国际媒体上对我们不利的报道影响了移民规则。
 
 所有的拒签都必须同时也加盖拒签理由章。
 
@@ -1091,7 +1091,7 @@ An important Kolechian negotiator will arrive today to discuss issues at this ch
 
 Continue to confiscate Arstotzkan passports from residents living in ALTAN district.","昨天那起有组织的袭击促使政府召开了紧急会议。 
 
-一位重要的科勒齐亚谈判家今天会到访来讨论关于这个检查站的问题。
+一位重要的科勒齐亚谈判家今天会到访来讨论关于这个边检站的问题。
 
 继续没收住在阿尔坦地区的阿斯托茨卡居民的护照。"
 "bulletin:28A","In response to continued attacks, the Ministry of Information is expanding the passport confiscation program.
@@ -1113,7 +1113,7 @@ Your audit is scheduled for: DECEMBER 24
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continued...","[NOTICE] 所有政府公务人员须接受全面情报审查。若发现与非法组织有染将被立即逮捕。
+Continued...","[NOTICE] 所有政府公务人员须接受全面的情报审查。若发现与非法组织有染将被立即逮捕。
 
 你的审查安排在：十二月24号
 
@@ -1127,7 +1127,7 @@ Your audit is scheduled for: DECEMBER 24
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continued...","[NOTICE] 所有政府公务人员须接受全面情报审查。若发现与非法组织有染将被立即逮捕。
+Continued...","[NOTICE] 所有政府公务人员须接受全面的情报审查。若发现与非法组织有染将被立即逮捕。
 
 你的审查安排在：十二月24号
 
@@ -1139,16 +1139,16 @@ Continued...","[NOTICE] 所有政府公务人员须接受全面情报审查。�
 
 Until a decision is made, maintain your duties as ordered.
 
-Continued...","入境管理局正在讨论是否要关闭这个检查站。
+Continued...","入境管理局正在讨论是否要关闭这个边检站。
 
-在决定做出之前，你需要奉命照常工作。
+在做出决定之前，你要奉命照常工作。
 
 未完待续……"
 "bulletin:31B","You are scheduled for an information audit tomorrow morning.
 
 DO NOT LEAVE YOUR DESIGNATED REGION.
 
-Continue to confiscate all Arstotzkan passports from native entrants.","明早你须出席情报审查。
+Continue to confiscate all Arstotzkan passports from native entrants.","明早你必须出席情报审查。
 
 切勿离开你所属的区域。
 
