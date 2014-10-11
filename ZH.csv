@@ -1616,11 +1616,11 @@ WILL SOLVE PROBLEM
 
 DENY AT OWN RISK","给你送大礼是个错误
 
-情报局现在正在调查你与EZIC之前的关系
+情报局现在正在调查你与EZIC之间的关系
 
-下一个密探几天到达
+下一个密探今天到达
 
-会帮你解决问题
+他会帮你解决问题
 
 如果拒绝他入境你就自己看着办吧"
 "note:EZIC_HANDLER_POST1","BOTH AGENTS WERE DENIED
@@ -1633,7 +1633,7 @@ WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","两个密探都被拒签了
 
 没有你的帮助我们无法成功
 
-在阿斯托茨卡建国初期我们的组织就执行和现在一样的使命
+在阿斯托茨卡建国初期我们的组织就一直在执行和现在一样的使命
 
 当推翻暴君后我们会再一次蛰伏"
 "note:EZIC_HANDLER_POST1","ONLY ONE AGENT APPROVED
@@ -1646,7 +1646,7 @@ WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","只有一个密探被准许入境
 
 没有你的帮助我们无法成功
 
-在阿斯托茨卡建国初期我们的组织就执行和现在一样的使命
+在阿斯托茨卡建国初期我们的组织就一直在执行和现在一样的使命
 
 当推翻暴君后我们会再一次蛰伏"
 "note:EZIC_HANDLER_POST1","YOU HAVE DONE WELL
@@ -1659,16 +1659,16 @@ WHEN TYRANNY ENDS WE WILL DISAPPEAR AGAIN","干得好
 
 两个密探都已经开始行动
 
-在阿斯托茨卡建国初期我们的组织就执行和现在一样的使命
+在阿斯托茨卡建国初期我们的组织就一直在执行和现在一样的使命
 
 当推翻暴君后我们会再一次蛰伏"
 "note:EZIC_HANDLER_EXT","BORDER ATTACKS ARE NOT EZIC OPERATIONS
 
 UNKNOWN EXTREMIST GROUPS RESPONSIBLE
 
-THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","针对边境的袭击不是EZIC策划的行动
+THE ORDER AIMS TO WEAKEN CORRUPT POWER CENTERS - NOT INJURE INNOCENTS - EZIC AGENT ARRIVES TODAY TO UNCOVER EXTREMISTS","针对边境的袭击不是EZIC策划的
 
-不知名的极端组织须对此负责
+不知名的极端组织需要对此负责
 
 我们的组织旨在削弱腐败的政治中心 - 而非伤害无辜 - EZIC密探今天会入境来揭露极端分子"
 "note:EZIC_POISON_MESSENGER","ASSASSIN COMING FROM ANTEGRIA
@@ -1703,16 +1703,16 @@ CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
 IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED 已经杀害了两名EZIC密探了 - 又来了一名刺客 - 那个红衣男人 - 手上有所有有关EZIC的信息
 
-不能再冒险了 - 你必须今天就杀了他 - 穿红衣服的那个男人 - 我们会给你提供机会
+不能再冒险了 - 你必须今天就杀了他 - 我们会给你提供机会
 
 一旦成功，你将会被捕 - 为了阿斯托茨卡你必须牺牲自己 - 你的家人都会安全"
 "note:EZIC_HANDLER_SNIPE","KHALED DEALT WITH - ANOTHER ASSASSIN COMES - MAN IN RED - CARRIES INFO ON ALL EZIC IN ARSTOTZKA
 
 CANNOT TAKE CHANCES - YOU MUST KILL HIM TODAY - WE WILL PROVIDE OPPORTUNITY
 
-IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED 已经处理掉了 - 又来了一名刺客 - 那个红衣男人 - 手上有所有有关EZIC的信息
+IF SUCCEED, YOU WILL BE CAUGHT - MUST SACRIFICE SELF FOR ARSTOTZKA - FAMILY WILL BE SAFE","KHALED 已经处理掉了 - 但又来了一名刺客 - 那个红衣男人 - 他手上有所有有关EZIC的信息
 
-不能再冒险了 - 你必须今天就杀了他 - 穿红衣服的那个男人 - 我们会给你提供机会
+不能再冒险了 - 你必须今天就杀了他 - 我们会给你提供机会
 
 一旦成功，你将会被捕 - 为了阿斯托茨卡你必须牺牲自己 - 你的家人都会安全"
 "note:EZIC_HANDLER_POSTSNIPE","WE HAVE MISSED OUR CHANCE
@@ -1740,7 +1740,7 @@ EZIC AGENT WILL FOLLOW TO ASSUME IDENTITY","政府计划向科勒齐亚屈服并
 
 准许科勒齐亚外交官入境但先没收他的护照
 
-EZIC密探会紧随其后以得到他的身份证明"
+EZIC密探会紧随其后以得到他的身份证件"
 "note:EZIC_FINAL","GRESTIN CHECKPOINT IS AT AN END
 
 TODAY WE BREAK THIS WALL DOWN
@@ -1749,7 +1749,7 @@ YOU WILL BE SAFE
 
 HOLD YOUR FIRE
 
-* THE ORDER OF THE EZIC STAR","是终结葛瑞斯汀边检站的时候了
+* THE ORDER OF THE EZIC STAR","是时候终结葛瑞斯汀边检站了
 
 今天我们将破坏边境围墙
 
@@ -1760,20 +1760,20 @@ HOLD YOUR FIRE
 * EZIC之星"
 "traveler:DEFAULT","Where is my passport? ; My passport? ; Passport? ; What is this slip? Where is passport?","我的护照在哪？; 我的护照？ ; 护照？ ; 这张单子是什么？护照在哪？"
 "traveler:DEFAULT","@It is being confiscated.","@护照被没收了。"
-"traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","那我怎么继续旅行 ; 我该怎么办？; 为什么？ ; 你不能这么做。"
+"traveler:DEFAULT","How will I travel? ; What should I do? ; Why? ; You cannot do this.","那我怎么继续旅行？; 我该怎么办？; 为什么？ ; 你不能这么做。"
 "traveler:DEFAULT","@Contact number on slip.","@联系这张单子上的号码"
 "traveler:EZIC_INTRO","The Order awaits.","组织在等你"
 "traveler:EZIC_CORMAN","Very good.","非常好。"
 "traveler:EZIC_CORMAN","Read quickly.","快点看。"
 "traveler:EZIC_CORMAN","Do not lose this.","这个别弄丢了"
-"traveler:EZIC_CORMAN","You have something of mine.","你有什么东西要给我吧。"
+"traveler:EZIC_CORMAN","You have something of mine.","你有东西要给我。"
 "traveler:EZIC_CORMAN","My name is Corman Drex.","我的名字是 Corman Drex."
 "traveler:EZIC_CORMAN","Read the note then return it to me.","读一下这张便签然后还给我。"
 "traveler:EZIC_HANDLER_PRE0","Our agents are ready.","我们的密探已经准备好了。"
 "traveler:EZIC_HANDLER_PRE0","Starting tomorrow.","从明天开始。"
 "traveler:EZIC_HANDLER_PRE0","Let them pass.","让他们入境。"
 "traveler:EZIC_AGENT0","The Order rises.","组织起事了。"
-"traveler:EZIC_AGENT0","The Order knows.","组织知道的。"
+"traveler:EZIC_AGENT0","The Order knows.","组织会知道的。"
 "traveler:EZIC_AGENT1","For Arstotzka and the Order.","为了阿斯托茨卡和组织。"
 "traveler:EZIC_HANDLER_POST1","Give me the coded documents.","把编码的文件给我。"
 "traveler:EZIC_HANDLER_POST1","Both.","两份都给我。"
